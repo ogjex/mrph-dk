@@ -23,12 +23,12 @@ draft = false
 
 {{< about-section
     title="About me"
-    content="This content is using the <code>about-section</code> shortcode. <br/>You can write <code>HTML</code>, as long as you <em>wrap it</em> accordingly. "
+    content="This is now some nice test content! This content is using the <code>about-section</code> shortcode. <br/>You can write <code>HTML</code>, as long as you <em>wrap it</em> accordingly. "
     button_icon="icon-user"
-    button_text="Check my skills"
+    button_text="Check what I offer!"
     button_url="/skills"
-    imgSrc="images/about/user-picture.png"
-    imgScale="0.5"
+    imgSrc="images/about/mrph-hiq.jpg"
+    imgScale="0.75"
     text_align="center"
  >}}
 

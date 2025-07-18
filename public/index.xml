@@ -1034,14 +1034,14 @@ params:
  
  
 
- &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_2f52adf1036cedb3.webp 1x, http://localhost:1313/images/about/user-picture_hu_d54a2b04e5adc1b7.webp 2x" type="image/webp" />
- &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_d9e9c9f4ef07df5a.png 1x, http://localhost:1313/images/about/user-picture_hu_97093cd7b236a5f0.png 2x" type="image/png">
+ &lt;source srcset="http://localhost:1313/images/about/mrph-hiq_hu_992074030de713ac.webp 1x, http://localhost:1313/images/about/mrph-hiq_hu_fd5e0bb69f503037.webp 2x" type="image/webp" />
+ &lt;source srcset="http://localhost:1313/images/about/mrph-hiq_hu_8d0773006d5e8f25.jpg 1x, http://localhost:1313/images/about/mrph-hiq_hu_9cdc73c5b7be79be.jpg 2x" type="image/jpeg">
 
  &lt;img
- width="561"
- height="535"
+ width="425"
+ height="637"
  class="lozad img-responsive image-left-overflow"
- data-src="http://localhost:1313/images/about/user-picture_hu_d9e9c9f4ef07df5a.png"
+ data-src="http://localhost:1313/images/about/mrph-hiq_hu_8d0773006d5e8f25.jpg"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -1053,12 +1053,12 @@ params:
  &lt;div class="col-12 col-md-6 my-auto">
  &lt;h1>About me&lt;/h1>
  &lt;div class="about-me content lead">
- This content is using the &lt;code>about-section&lt;/code> shortcode. &lt;br/>You can write &lt;code>HTML&lt;/code>, as long as you &lt;em>wrap it&lt;/em> accordingly. 
+ This is now some nice test content! This content is using the &lt;code>about-section&lt;/code> shortcode. &lt;br/>You can write &lt;code>HTML&lt;/code>, as long as you &lt;em>wrap it&lt;/em> accordingly. 
  &lt;/div>
  
  &lt;a href="http://localhost:1313/skills" target="_blank" class="btn btn-primary">
  &lt;i class="icon-user">&lt;/i>
- Check my skills
+ Check what I offer!
  &lt;/a>
  
  &lt;/div>
