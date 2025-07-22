@@ -2,14 +2,14 @@
 date: 2022-12-01T00:00:00+01:00
 draft: false
 title: "Job #1"
-jobTitle: "Junior Intern"
-company: "Internet Affairs Inc. "
-location: "Stavanger, Norway"
-duration: "2022-2024"
+jobTitle: "IT supporter"
+company: "Roskilde University"
+location: "Roskilde, Denmark"
+duration: "2007-2009"
 companyLogo: "images/experience/internet-affairs.png"
 
 ---
-## 1st job: Junior Intern
+## 1st job: IT supporter for Apple and Macintosh servers and desktops
 
 The beginning of a great career. As a Junior Intern at Internet Affairs Inc., I had the opportunity to work on various projects that helped me develop my technical and professional skills. Working alongside experienced developers, I contributed to the company's core web applications and learned industry best practices in software development.
 

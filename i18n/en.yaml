@@ -16,10 +16,10 @@
   translation: "Adritian logo"
 
 - id: "logo_text1"
-  translation: "Adritian"
+  translation: "Magnus"
 
 - id: "logo_text2"
-  translation: "Demo"
+  translation: "RPH"
 
 ## General
 - id: "skipToMainContent"
