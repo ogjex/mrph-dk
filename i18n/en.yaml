@@ -1,19 +1,19 @@
 ## Meta tags
 - id: "meta_title"
-  translation: "Adritian - a high performance hugo theme by Adrián Moreno"
+  translation: "mrph.dk - portfolio and cv website"
 - id: "meta_description"
-  translation: "This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
+  translation: "This site is home to Magnus Rotvit Perlt Hansen and shows off his skills and accomplishments throughout his career."
 - id: "meta_keywords"
-  translation: "hugo, theme, bootstrap, adritian, adrian moreno, personal site, portfolio, single page application"
+  translation: "magnus, rotvit, perlt, hansen, personal site, portfolio, single page application, cv, resume"
 - id: "meta_author"
-  translation: "Adrián Moreno Peña"
+  translation: "Magnus Rotvit Perlt Hansen"
 - id: "meta_image"
   translation: "/img/general/og-image.jpg"
 
 ## Header
 
 - id: "logo_alt"
-  translation: "Adritian logo"
+  translation: "mrph logo"
 
 - id: "logo_text1"
   translation: "Magnus"
@@ -47,10 +47,10 @@
 
 ## Homepage head title
 - id: "head_title"
-  translation: "Demo site for Adritian - a high performance hugo theme by Adrián Moreno"
+  translation: "Portfolio and personal site for Magnus Rotvit Perlt Hansen"
 
 - id: "head_description"
-  translation: "This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
+  translation: "This site shows off Magnus Rotvit Perlt Hansen's personal site in regards to his own personal opinions, experiens and skills."
 
 
 ## Blog

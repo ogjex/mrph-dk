@@ -33,7 +33,7 @@ draft = false
  >}}
 
 {{< education-list
-    title="Formal Education (education-list)" >}}
+    title="Formal Education" >}}
 
 {{< experience-section
     title="My job experience (title)"
