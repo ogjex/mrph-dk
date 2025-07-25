@@ -48,6 +48,97 @@ skill_categories:
         level: 90
         years: "8+"
         description: "GitHub Actions, Jenkins, CircleCI"
+  - name: "Frameworks & Technologies"
+    skills:
+      - name: "React/React Native"
+        level: 90
+        years: "7+"
+        description: "Web and cross-platform mobile apps"
+      - name: "Node.js"
+        level: 90
+        years: "8+"
+        description: "Express, NestJS, API development"
+      - name: "AWS"
+        level: 85
+        years: "6+"
+        description: "EC2, S3, Lambda, CloudFront, RDS"
+      - name: "Docker/Kubernetes"
+        level: 80
+        years: "5+"
+        description: "Containerization, orchestration"
+      - name: "CI/CD"
+        level: 90
+        years: "8+"
+        description: "GitHub Actions, Jenkins, CircleCI"
 ---
 
 As a technology professional, I've developed expertise across multiple technical domains throughout my career. This skills showcase highlights my technical capabilities, from programming languages to architectural patterns and methodologies.
+
+Shortlist:
+- system administration
+  - debian server
+  - arch linux
+  - proxmox hypervisor
+  - ansible
+  - OpenSSH
+- development tools
+  - VScode
+  - Neovim
+  - git and github
+  - docker
+- programming languages:
+  - python
+  - java
+  - php
+  - bash
+  - C
+- frameworks 
+  - laravel
+  - hugo
+  - mkdocs
+- design tools
+  - photoshop
+  - GIMP
+  - 
+- office tools
+  - excel
+  - word
+  - libreoffice
+- project management
+  - change management
+  - nudging
+- organisational strategy
+  - digitalisation strategy
+  - business and information technology alignment
+  - data strategy
+- process improvement
+  - BPMN modelling
+  - assessment and initialising
+- robotic process automation 
+  - python
+  - POSIX (eg. bash)
+  - Power Automate
+- user experience design 
+- user experience research
+  - interviewing
+  - qualitative analysis
+  - 
+- information security
+  - privacy
+  - penetration testing
+  - password security
+  - security behaviour and nudging
+- IT architecture
+  - Archimate
+  - 
+- Language proficiency
+  - Danish
+  - English
+  - Swedish
+  - German
+- Communication skills
+  - documentation
+  - strategy
+  - business case 
+  - article publication
+  - oratory presentation
