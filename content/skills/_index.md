@@ -2,7 +2,7 @@
 title: "Technical Skills"
 date: 2025-05-19T14:56:00+01:00
 draft: false
-description: "A comprehensive overview of technical skills and expertise across various domains."
+description: "My comprehensive list of skills and competencies I have aquired over the years through practical and academic engagement with all of my projects."
 skill_categories:
   - name: "Programming Languages"
     skills:
@@ -17,80 +17,98 @@ skill_categories:
       - name: "PHP"
         level: 70
         years: "3+"
-        description: "Developed with pure server-side PHP and Laravel"
+        description: "Developed with pure server-side PHP and Laravel."
       - name: "Bash"
         level: 60
         years: "3+"
-        description: "Able to develop minor Bash scripts with advanced options and parameters for automation"
+        description: "Able to develop minor Bash scripts with advanced options and parameters for automation."
   - name: "Development tools"
     skills:
       - name: "VSCode"
         level: 50
         years: "1+"
-        description: "Able to install plug-ins and embedded debugging environments"
+        description: "Able to install plug-ins and embedded debugging environments."
       - name: "Neovim"
         level: 70
         years: "1+"
-        description: "Able to integrate new plugins, automate using macros and norm"
+        description: "Able to integrate new plugins, automate using macros and norm."
       - name: "Docker"
         level: 40
         years: "1+"
-        description: "Able to user Docker CLI and Docker Compose and set up customized docker images"
+        description: "Able to user Docker CLI and Docker Compose and set up customized docker images."
       - name: "Git and GitHub"
         level: 70
         years: "4+"
-        description: "Able to branch, merge, rebase and diff git commits, use GitHub Actions"
+        description: "Able to branch, merge, rebase and diff git commits, use GitHub Actions."
   - name: "AI and LLM usage"
     skills:
       - name: "Prompting LLMs"
         level: 80
         years: "3+"
-        description: "Using Llama, Mistral and Copilot for coding, editing and summarisation of complicated input"
+        description: "Using Llama, Mistral and Copilot for coding, editing and summarisation of complicated input."
       - name: "Local LLM usage"
         level: 80
         years: "1+"
-        description: "Able to setup open source LLMs using Ollama on local servers for local prompting"
+        description: "Able to setup open source LLMs using Ollama on local servers for local prompting."
       - name: "Finetuning LLMs"
         level: 70
         years: "1+"
-        description: "Able to finetune LLMs through RAG, RAFT, KAG, CAG and RHLF"
+        description: "Advanced. Able to finetune LLMs through RAG, RAFT, KAG, CAG and RHLF."
+  - name: "System administration"
+    skills:
+      - name: "Debian Server"
+        level: 60
+        years: "1+"
+        description: "Intermediary. Able to install, set up apt repositories, harden security, connect through SSH and manage network ports, monitor resources."
+      - name: "Arch Linux"
+        level: 80
+        years: "1+"
+        description: "Advanced. Able to manually install, update, set up desktop environments and import configurations from external dot-file repositories."
+      - name: "Proxmox VE"
+        level: 40
+        years: "1+"
+        description: "Intermediary. Able to use CLI tools to create VMs and LXC containers, snapshot and backup VMs for easier deployment."
+      - name: "OpenSSH"
+        level: 60
+        years: "3+"
+        description: "Intermediary. Able to add keys to servers and set up password-less server setups, use SCP for file transfers." 
+      - name: "Ansible"
+        level: 20
+        years: "1"
+        description: "Beginner. Able to use playbooks, plays, task lists to control multiple (6+) servers for updates and mass deployment." 
+  - name: "Design tools and CAD"
+    skills:
+      - name: "Photoshop and GIMP"
+        level: 70
+        years: "20+"
+        description: "Advanced. Able to use layers, batch process pictures, transform and use blends etc."
+      - name: "InDesign"
+        level: 70
+        years: "20+"
+        description: "Advanced. Able to create various products, folders, posters, books, albums using styles, rulers and send it to publishers adhering to industry standards."
+  - name: "Office tools"
+    skills:
+      - name: "Microsoft Word"
+        level: 90
+        years: "30+"
+        description: "Expert. Able to style, create, optimise and create customised templates of up to 200+ pages."
+      - name: "Microsoft Excel"
+        level: 85
+        years: "20+"
+        description: "Expert. Able to color code, import data from other documents, write advanced formulas and rules for data manipulation."
+      - name: "LibreOffice "
+        level: 80
+        years: "3+"
+        description: "Advanced. Same abilities as in MS Office but needs to look up the functions more often."
 ---
 
 As a technology professional, I've developed expertise across multiple technical domains throughout my career. This skills showcase highlights my technical capabilities, from programming languages to architectural patterns and methodologies.
 
 Shortlist:
-- system administration
-  - debian server
-  - arch linux
-  - proxmox hypervisor
-  - ansible
-  - OpenSSH
-- development tools
-  - VScode
-  - Neovim
-  - git and github
-  - docker
-- programming languages:
-  - python
-  - java
-  - php
-  - bash
-- AI and LLM usage
-  - Prompting with Mistral, Llama and Copilot
-  - local LLM servers and integration
-  - finetuning local LLMs
 - frameworks 
   - laravel
   - hugo
   - mkdocs
-- design tools
-  - photoshop
-  - GIMP
-  - InDesign
-- office tools
-  - excel
-  - word
-  - libreoffice
 - project management
   - change management
   - nudging
