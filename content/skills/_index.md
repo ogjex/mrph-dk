@@ -39,7 +39,7 @@ skill_categories:
       - name: "Git and GitHub"
         level: 70
         years: "4+"
-        description: "Able to branch, merge, rebase and diff git commits, use GitHub Actions."
+        description: "Able to branch, merge, rebase and diff git commits, follow strict process of committing and pushing only after testing, able to use GitHub Actions for fast deployment."
   - name: "AI and LLM usage"
     skills:
       - name: "Prompting LLMs"
