@@ -6,70 +6,54 @@ description: "A comprehensive overview of technical skills and expertise across 
 skill_categories:
   - name: "Programming Languages"
     skills:
-      - name: "JavaScript/TypeScript"
-        level: 95
-        years: "10+"
-        description: "Modern ES6+, TypeScript, React, Node.js"
+      - name: "Python"
+        level: 60
+        years: "2"
+        description: "Able to develop a drag and drop GUI using PyQT as well as do data analysis with Jupyter notebooks and JSON manipulation."
       - name: "Java"
-        level: 85
-        years: "8+"
-        description: "Enterprise applications, Spring framework"
+        level: 60
+        years: "3+"
+        description: "Able to develop GUIs with Swing and small desktop apps."
       - name: "PHP"
-        level: 90
-        years: "10+"
-        description: "Laravel, Symfony, WordPress"
-      - name: "Swift/Objective-C"
-        level: 80
-        years: "7+"
-        description: "iOS native development"
-      - name: "Kotlin/Java"
-        level: 75
-        years: "6+"
-        description: "Android native development"
-  - name: "Frameworks & Technologies"
+        level: 70
+        years: "3+"
+        description: "Developed with pure server-side PHP and Laravel"
+      - name: "Bash"
+        level: 60
+        years: "3+"
+        description: "Able to develop minor Bash scripts with advanced options and parameters for automation"
+  - name: "Development tools"
     skills:
-      - name: "React/React Native"
-        level: 90
-        years: "7+"
-        description: "Web and cross-platform mobile apps"
-      - name: "Node.js"
-        level: 90
-        years: "8+"
-        description: "Express, NestJS, API development"
-      - name: "AWS"
-        level: 85
-        years: "6+"
-        description: "EC2, S3, Lambda, CloudFront, RDS"
-      - name: "Docker/Kubernetes"
-        level: 80
-        years: "5+"
-        description: "Containerization, orchestration"
-      - name: "CI/CD"
-        level: 90
-        years: "8+"
-        description: "GitHub Actions, Jenkins, CircleCI"
-  - name: "Frameworks & Technologies"
+      - name: "VSCode"
+        level: 50
+        years: "1+"
+        description: "Able to install plug-ins and embedded debugging environments"
+      - name: "Neovim"
+        level: 70
+        years: "1+"
+        description: "Able to integrate new plugins, automate using macros and norm"
+      - name: "Docker"
+        level: 40
+        years: "1+"
+        description: "Able to user Docker CLI and Docker Compose and set up customized docker images"
+      - name: "Git and GitHub"
+        level: 70
+        years: "4+"
+        description: "Able to branch, merge, rebase and diff git commits, use GitHub Actions"
+  - name: "AI and LLM usage"
     skills:
-      - name: "React/React Native"
-        level: 90
-        years: "7+"
-        description: "Web and cross-platform mobile apps"
-      - name: "Node.js"
-        level: 90
-        years: "8+"
-        description: "Express, NestJS, API development"
-      - name: "AWS"
-        level: 85
-        years: "6+"
-        description: "EC2, S3, Lambda, CloudFront, RDS"
-      - name: "Docker/Kubernetes"
+      - name: "Prompting LLMs"
         level: 80
-        years: "5+"
-        description: "Containerization, orchestration"
-      - name: "CI/CD"
-        level: 90
-        years: "8+"
-        description: "GitHub Actions, Jenkins, CircleCI"
+        years: "3+"
+        description: "Using Llama, Mistral and Copilot for coding, editing and summarisation of complicated input"
+      - name: "Local LLM usage"
+        level: 80
+        years: "1+"
+        description: "Able to setup open source LLMs using Ollama on local servers for local prompting"
+      - name: "Finetuning LLMs"
+        level: 70
+        years: "1+"
+        description: "Able to finetune LLMs through RAG, RAFT, KAG, CAG and RHLF"
 ---
 
 As a technology professional, I've developed expertise across multiple technical domains throughout my career. This skills showcase highlights my technical capabilities, from programming languages to architectural patterns and methodologies.
@@ -91,7 +75,10 @@ Shortlist:
   - java
   - php
   - bash
-  - C
+- AI and LLM usage
+  - Prompting with Mistral, Llama and Copilot
+  - local LLM servers and integration
+  - finetuning local LLMs
 - frameworks 
   - laravel
   - hugo
@@ -99,7 +86,7 @@ Shortlist:
 - design tools
   - photoshop
   - GIMP
-  - 
+  - InDesign
 - office tools
   - excel
   - word
