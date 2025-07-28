@@ -124,14 +124,26 @@ skill_categories:
         description: "Expert. Able to write up both popular articles and academic articles through structure of importance and interestingness that allow for effortless publication."
   - name: "Language proficiency"
     skills:
-      - name: "TBW"
-        level: 70
-        years: "20+"
-        description: "Advanced. Able to use layers, batch process pictures, transform and use blends etc."
-      - name: "TBW"
-        level: 70
-        years: "20+"
-        description: "Advanced. Able to create various products, folders, posters, books, albums using styles, rulers and send it to publishers adhering to industry standards."
+      - name: "Danish"
+        level: 100
+        years: "40+"
+        description: "Native speaker."
+      - name: "English"
+        level: 95
+        years: "30+"
+        description: "Negotiation level."
+      - name: "Swedish"
+        level: 30
+        years: "4+"
+        description: "Courtesy level. Can hold a conversation with most Swedish people."
+      - name: "Norwegian"
+        level: 30
+        years: "4+"
+        description: "Courtesy level. Can hold a conversation with most Norwegian people."
+      - name: "German"
+        level: 30
+        years: "4+"
+        description: "Courtesy level. Can understand and read German (with help)."
 ---
 
 As a technology professional, I've developed expertise across multiple technical domains throughout my career. This skills showcase highlights my technical capabilities, from programming languages to architectural patterns and methodologies.
