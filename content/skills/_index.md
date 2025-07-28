@@ -90,7 +90,7 @@ skill_categories:
     skills:
       - name: "Microsoft Word"
         level: 90
-        years: "30+"
+        years: "25+"
         description: "Expert. Able to style, create, optimise and create customised templates of up to 200+ pages."
       - name: "Microsoft Excel"
         level: 85
@@ -100,6 +100,38 @@ skill_categories:
         level: 80
         years: "3+"
         description: "Advanced. Same abilities as in MS Office but needs to look up the functions more often."
+  - name: "Communication skills"
+    skills:
+      - name: "Oratory presentation"
+        level: 95
+        years: "20+"
+        description: "Expert. Able to take any difficult or abstract topic and condense it into a 5 or 10 minute presentation, communicating the essentials first and then provide additional details."
+      - name: "Teaching"
+        level: 95
+        years: "15+"
+        description: "Expert. Able to structure any advanced topic into minor narratives and produce meaningful exercises for an audience to learn from."
+      - name: "Documentation"
+        level: 90
+        years: "20+"
+        description: "Expert. Able to write up documentation into short, medium and long documents for easy lookup into both text and interactive digital mediums such as wikis, linked notes and readmes."      
+      - name: "Funding application"
+        level: 70
+        years: "10+"
+        description: "Advanced. Able to write funding applications based on funding criteria with a focus on the societal and business-centric importance and impact."
+      - name: "Article publication"
+        level: 90
+        years: "15+"
+        description: "Expert. Able to write up both popular articles and academic articles through structure of importance and interestingness that allow for effortless publication."
+  - name: "Language proficiency"
+    skills:
+      - name: "TBW"
+        level: 70
+        years: "20+"
+        description: "Advanced. Able to use layers, batch process pictures, transform and use blends etc."
+      - name: "TBW"
+        level: 70
+        years: "20+"
+        description: "Advanced. Able to create various products, folders, posters, books, albums using styles, rulers and send it to publishers adhering to industry standards."
 ---
 
 As a technology professional, I've developed expertise across multiple technical domains throughout my career. This skills showcase highlights my technical capabilities, from programming languages to architectural patterns and methodologies.
@@ -141,9 +173,3 @@ Shortlist:
   - English
   - Swedish
   - German
-- Communication skills
-  - documentation
-  - strategy
-  - business case 
-  - article publication
-  - oratory presentation
