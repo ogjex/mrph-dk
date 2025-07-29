@@ -76,6 +76,24 @@ skill_categories:
         level: 20
         years: "1"
         description: "Beginner. Able to use playbooks, plays, task lists to control multiple (6+) servers for updates and mass deployment." 
+        ##- organisational digitalisation
+        ##  - digitalisation strategy
+        ##  - business and information technology alignment
+        ##  - data strategy
+  - name: "Digitalisation"
+    skills:
+      - name: "Digitalisation strategy"
+        level: 70
+        years: "10+"
+        description: "Advanced. Able to differentiate vision, mission, strategy into strategic, operational and tactical layer for an organisation and align the IT with business strategy."
+      - name: "IT governance"
+        level: 70
+        years: "10+"
+        description: "Advanced. Able to define and differentiate decision-makers, structures and processes for decision and accountability according to organisational domain and strategy."
+      - name: "Data strategy"
+        level: 70
+        years: "10+"
+        description: "Advanced. Able to ..."
   - name: "Design tools and CAD"
     skills:
       - name: "Photoshop and GIMP"
@@ -156,7 +174,7 @@ Shortlist:
 - project management
   - change management
   - nudging
-- organisational strategy
+- organisational digitalisation
   - digitalisation strategy
   - business and information technology alignment
   - data strategy
@@ -180,8 +198,3 @@ Shortlist:
 - IT architecture
   - Archimate
   - 
-- Language proficiency
-  - Danish
-  - English
-  - Swedish
-  - German
