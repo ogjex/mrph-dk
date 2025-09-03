@@ -1,0 +1,9 @@
+---
+title: "Publications"
+date: 2025-01-01
+draft: false
+---
+
+Welcome to the publications list.
+
+- awesome publication! 

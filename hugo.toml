@@ -152,16 +152,21 @@ URL = "/blog"
 weight = 6
 
 [[languages.en.menus.header]]
+name = "Publications"
+URL = "/publications"
+weight = 7
+
+[[languages.en.menus.header]]
 pre = "email"
 name = "email"
 URL = "#contact"
-weight = 7
+weight = 8
 
 [[languages.en.menus.header]]
 pre = "search"
 name = "Search"
 URL = "/search"
-weight = 8
+weight = 9
 
 [[languages.en.menus.footer]]
 name = "Home"
