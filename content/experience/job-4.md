@@ -1,14 +1,14 @@
 ---
-date: 2014-05-01T00:00:00+01:00
+date: 2015-01-01T00:00:00+01:00
 draft: false
-title: "Job #3"
-jobTitle: "Temp. Assistant Professor"
+title: "Job #4"
+jobTitle: "Assistant Professor"
 company: "Roskilde University"
 location: "Roskilde, Denmark"
-duration: "2014-2014"
+duration: "2015-2018"
 
 ---
-## 3rd job: Temporary Assistant Professor at the Department of Communications, Business and Information Technology
+## 4th job: Assistant Professor at the Department of Communications, Business and Information Technology
 
 As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.
 

@@ -1,5 +1,7 @@
-# Public 
+# ignore all files that are built when running the server
 public/
 resources/
 .hugo_build.lock
+hugo_stats.json
+
 
