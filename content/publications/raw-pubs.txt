@@ -1,0 +1,45 @@
+Ciriello, R. F., Torbensen, A. C. G., Hansen, M. R. P., & Müller-Bloch, C. (2023). Blockchain-based digital rights management systems: Design principles for the music industry. Electronic Markets, 33(1), 1–21.
+Ejnefjäll, T., & Hansen, M. R. P. (2015). User apprehensions and expectations in healthcare IS implementations. Proceedings of the 38th Information Systems Research Seminar in Scandinavia, Electronic Publication.
+Fleron, B., & Hansen, M. R. P. (2019). Er det virkelig nødvendigt at skubbe sådan rundt med stakkels Jytte? Projektledelse, 3, 14–16.
+Fleron, B., & Hansen, M. R. P. (2020a). Mega IT as Public Property. In M. R. P. Hansen & J. Pries-Heje (Eds.), In the junction of leadership and innovation (pp. 75–90). Roskilde Universitetsforlag.
+Fleron, B., & Hansen, M. R. P. (2020b). Mega IT as Public Property: A Call for Innovative Evaluation Methods. In In the junction of leadership innovation demand. Roskilde Universitetsforlag.
+Fleron, B., Hansen, M. R. P., & Pries-Heje, J. (2019). Is Success in IT Projects a Fata Morgana? 10th Scandinavian Conference on Information Systems.
+Fleron, B., Pries-Heje, J., & Hansen, M. R. P. (2023). Understanding Resistance to IS-Related Change. In Proceedings of the European Conference on Information Systems (Vol. 2023).
+Hansen, L. K., & Hansen, M. R. P. (2019). Ledelse af innovationsprojekter og porteføljer skaber vi sammen. Projektledelse, 2, 36–38.
+Hansen, M. R. P. (2012). A framework for understanding outcomes of mutual learning situations in IT projects. Proceedings of the 12th Participatory Design Conference on Exploratory Papers Workshop Descriptions Industry Cases - Volume 2 - PDC ’12, 97. https://doi.org/10.1145/2348144.2348175
+Hansen, M. R. P. (2014). Discovering the process of user expectating. Roskilde University.
+Hansen, M. R. P. (2017a). A “beliefs of the future” framework: Addressing project management tactics to harness the power of disappointment. Proceedings of the Third Danish Project Management Research Conference, 43–52.
+Hansen, M. R. P. (2017b). Complexions of Iterative Information Systems Development Approaches: Mediation in Chaotic Practices. Proceedings of the 40th Information Systems Research Seminar in Scandinavia, Submitted.
+Hansen, M. R. P. (2017c). Hvem ved hvad den agile bølge vil skylle op? Projektledelse, 2017(3), 29–30.
+Hansen, M. R. P. (2017d). Symposiet fra et forskerperspektiv. Projektledelse, 2017(2), 38–39.
+Hansen, M. R. P. (2017e, August). Complexions of Iterative Information Systems Development Approaches. 40th Information Systems Research Seminar in Scandinavia.
+Hansen, M. R. P. (2018). Fail Fast – et varsomt projektparadigme. Projektledelse, 1(1), 21–22.
+Hansen, M. R. P. (2019a). Project relationship status: It’s complicated. Projektledelse, 3, 25–27.
+Hansen, M. R. P. (2019b, January 3). Complexions of Project Management. Paper Development Workshop.
+Hansen, M. R. P. (2019c, May 29). The Outdoorsman’s Guide to Learning in Project Management. 5th Danish Project Management Research Conference.
+Hansen, M. R. P., & Bødker, K. (2016). Frivillig forandring beslutninger mellem rammesætning og frivillige tilvalg. In P. Hagedorn-Rasmussen, J. Pries-Heje, K. Bødker, S. Elsborg, & J. D. Scheuer (Eds.), Robust organisationsforandring—Design og implementering i orkanens øje (pp. 113–130). Samfundslitteratur.
+Hansen, M. R. P., & Haj-Bolouri, A. (2020). Design Principles Exposition. In S. Hofmann, O. Müller, & M. Rossi (Eds.), Designing for Digital Transformation. Co-Creating Services with Citizens and Industry. Springer. https://doi.org/10.1007/978-3-030-64823-7_16
+Hansen, M. R. P., & Kirkeby, M. H. (2021, December 1). Teknologi belaster klimaet: Sådan mindsker du aftrykket fra software og hardware CO2-reduktion Data. Teknologiens Mediehus.
+Hansen, M. R. P., & Pries-Heje, J. (2016). Out of the Bottle: Design Principles for GENIE Tools (Group-Focused Engagement and Network Innovation Environment). Proceedings of the 4th International Conference on Design Science Research in Information Systems and Technology, 131–146. https://doi.org/10.1007/978-3-319-39294-3_9
+Hansen, M. R. P., & Pries-Heje, J. (2017a). Principles for Enabling Deep Secondary Design. Proceedings of the Eighth Scandinavian Conference in Information Systems, Submitted.
+Hansen, M. R. P., & Pries-Heje, J. (2017b). The Future of Project Management (M. R. P. Hansen & J. Pries-Heje, Eds.). Dansk Projektledelse.
+Hansen, M. R. P., & Pries-Heje, J. (2017c). Value Creation in Knowledge Networks. Scandinavian Journal of Information Systems, 29(2).
+Hansen, M. R. P., & Pries-Heje, J. (2018). Principles for Unbounded Secondary design. In Proceedings of the European Conference on Information Systems.
+Hansen, M. R. P., & Pries-Heje, J. (2020a). A Situational Knowledge Network Nexus Building Approach. In J. Vom Brocke, A. Hevner, & A. Maedche (Eds.), Design Science Research (pp. 261–288). Springer. https://doi.org/10.1007/978-3-030-46781-4_11
+Hansen, M. R. P., & Pries-Heje, J. (2020b). A Situational Knowledge Network Nexus: Exploring Kernel Theory Extensions Using Design Science Research. Design Science Research. Cases, 261–288.
+Hansen, M. R. P., & Pries-Heje, J. (Eds.). (2020c). At the junction of project leadership and innovation. Roskilde Universitetsforlag.
+Hansen, M. R. P., & Pries-Heje, J. (2022a). Lead Users and Design Sprints. 13th Scandinavian Conference on Information Systems 2022.
+Hansen, M. R. P., & Pries-Heje, J. (2022b). Training Is Project Managers To Deal With Complexity. 13th Scandinavian Conference on Information Systems 2022.
+Hansen, M. R. P., Pries-Heje, J., & Tchatchoua, N. S. (2020). Design sprint week evaluation. Roskilde Universitet.
+Iivari, J., Rotvit Perlt Hansen, M., & Haj-Bolouri, A. (2019). A proposal for minimum reusability evaluation of design principles. European Journal of Information Systems, 1–18. https://doi.org/10.1080/0960085X.2020.1793697
+Möller, F., Hansen, M. R. P., & Schoormann, T. (2022). Synthesizing a Solution Space for Prescriptive Design Knowledge Codification. Scandinavian Journal of Information Systems, 34(2), 3–38.
+Möller, F. O., Hansen, M. R., & Schoormann, T. (2022). Synthesizing a Solution Space for Prescriptive Design Knowledge Codification. 34.
+Möller, F., Schoormann, T., Strobel, G., & Hansen, M. R. P. (2022). Unveiling the Cloak: Kernel Theory Use in Design Science Research. ICIS 2022. ICIS 2022 Proceedings. https://aisel.aisnet.org/icis2022/adv_methods/adv_methods/2/
+Nielsen, P. E.-F., Hansen, M. R. P., & Hougaard, M. (2023). TOWARDS SME GROWTH: RPA AS AN INTERVENTION TECHNOLOGY IN ACTION DESIGN RESEARCH.
+Pries-Heje, J., & Hansen, M. R. P. (2016). Net Up Your Innovation Value (pp. 70–85). Springer, Cham. https://doi.org/10.1007/978-3-319-43597-8_6
+Pries-Heje, J., & Hansen, M. R. P. (2022). Digital nudging loop. In SIGGreen Pre-ICIS 2022 Workshop Proceedings. AIS Association. https://communities.aisnet.org/siggreen/workshops/agenda
+Pries-Heje, J., Hansen, M. R. P., & Christensen, J. A. (2022). Reviewing Transfer and Diffusion of Climate Technology in Households. In A. Elbanna, S. Mcloughlin, Y. K. Dwivedi, B. Donnellan, & D. Wastell (Eds.), Co-creating for Context in the Transfer and Diffusion of IT. Springer. https://doi.org/10.1007/978-3-031-17968-6_13
+Pries-Heje, J., Hansen, M. R. P., & Tchatchoua, N. S. (2020). How to change household behaviour with Green IT. In Review of Literature. Roskilde Universitet.
+Schoormann, T., Hansen, M. R. P., & Möller, F. (2025). Advancing Design Knowledge Reuse: A Framework for Circular Design Principles. Communications of the AIS.
+Schoormann, T., Möller, F., & Hansen, M. R. P. (2021). How Do Researchers (Re-)Use Design Principles. In L. Chandra Kruse, S. Seidel, & G. I. Hausvik (Eds.), The Next Wave of Sociotechnical Design—16th International Conference on Design Science Research in Information Systems and Technology, DESRIST 2021, Proceedings. Springer. https://doi.org/10.1007/978-3-030-82405-1_20
+Tchatchoua, N. S., Pries-Heje, J., & Hansen, M. R. P. (2020). Changing household behaviour to use electricity from sustainable sources. 43rd Information Systems Research in Scandinavia Conference (Online). IRIS43.

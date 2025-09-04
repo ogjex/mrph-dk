@@ -4,6 +4,6 @@ date: 2025-01-01
 draft: false
 ---
 
-Welcome to the publications list.
+Here is a list of my collective published bibliography:
 
-- awesome publication! 
+
