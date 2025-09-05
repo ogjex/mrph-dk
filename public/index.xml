@@ -881,13 +881,13 @@ The project was sponsored by the Innovation Fund Denmark and started in May 2023
  &lt;div class="showcase-section row flex-column-reverse flex-md-row rad-fade-down rad-waiting rad-animate"&gt;
  &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6"&gt;
  &lt;h1 class="display-1"&gt;
- Hi! I&amp;#39;m Magnus.
+ Hi! I&amp;#39;m Magnus
  &lt;/h1&gt;
  &lt;h2 class="display-5"&gt;
- &lt;span&gt;Practitechnical Academic and Swiss Multitool&lt;/span&gt;
+ &lt;span&gt;"Practi-techno Academico"&lt;/span&gt;
  &lt;/h2&gt;
  &lt;div class="lead"&gt;
- I work as an Associate Professor at Roskilde University where I get to design and develop: tech tools that produce value for practitioners, server infrastructure for local InfoSec projects, local LLM testing and Open Source Enterprise tools. The best part is that &lt;code&gt; I get to publish the results &lt;/code&gt;! &lt;/br&gt; Often I get the notion that I am too practical for academics and too academic for practice but it has gotten me a lot of useful research projects with practitioners and external companies and a very strong hands-on approach.
+ I work as an Associate Professor at Roskilde University where I get to design and develop; new tech and people-focused tools for practitioners; server infrastructure for local InfoSec projects; local LLM testing and Open Source Enterprise tools.&lt;/br&gt; The &lt;em&gt;best part&lt;/em&gt; is that I get to &lt;code&gt;publish my results&lt;/code&gt;! &lt;/br&gt; Often I get the notion that I am way more practical than academics and more academic than practitioners, but I do see opportunity for growth in both aspects whenever I take a hands-on approach with research projects in practice.
  &lt;/div&gt;
  
  &lt;/div&gt;
@@ -1025,14 +1025,14 @@ The project was sponsored by the Innovation Fund Denmark and started in May 2023
  
  
 
- &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_d37b8c855bc40569.webp 1x, http://localhost:1313/images/showcase/showcase_hu_bb220d2f819b63f2.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_36a7c350e756fdba.png 1x, http://localhost:1313/images/showcase/showcase_hu_55c9d46ab35228bc.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/images/mrph-work_hu_5491fd400df0c1c7.webp 1x, http://localhost:1313/images/mrph-work_hu_233095dd2dbda98a.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/images/mrph-work_hu_ae32a8924fcf2f06.jpg 1x, http://localhost:1313/images/mrph-work_hu_f0d5eba400e7ad32.jpg 2x" type="image/jpeg"&gt;
 
  &lt;img
- width="790"
- height="768"
+ width="806"
+ height="604"
  class="lozad img-responsive image-left-overflow"
- data-src="http://localhost:1313/images/showcase/showcase_hu_36a7c350e756fdba.png"
+ data-src="http://localhost:1313/images/mrph-work_hu_ae32a8924fcf2f06.jpg"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -1144,6 +1144,14 @@ The project was sponsored by the Innovation Fund Denmark and started in May 2023
  &lt;div class="experience__header"&gt;
  
  
+ 
+ &lt;img 
+ src="http://localhost:1313/images/experience/ruc-roskilde-universitet-black-tekst-under-logo-cmyk_hu_fda3eee200c047fc.webp" 
+ alt=" logo"
+ class="experience__company-logo"
+ loading="lazy"
+ /&gt;
+ 
  &lt;div class="experience__meta"&gt;
  &lt;div class="experience__date"&gt;2018- now&lt;/div&gt;
  &lt;div class="experience__title"&gt;Associate Professor&lt;/div&gt;
@@ -1169,6 +1177,14 @@ In my role, I also serve as a member of the executive board, helping shape the c
  &lt;div class="experience__header"&gt;
  
  
+ 
+ &lt;img 
+ src="http://localhost:1313/images/experience/ruc-roskilde-universitet-black-tekst-under-logo-cmyk_hu_fda3eee200c047fc.webp" 
+ alt=" logo"
+ class="experience__company-logo"
+ loading="lazy"
+ /&gt;
+ 
  &lt;div class="experience__meta"&gt;
  &lt;div class="experience__date"&gt;2015-2018&lt;/div&gt;
  &lt;div class="experience__title"&gt;Assistant Professor&lt;/div&gt;
@@ -1193,6 +1209,14 @@ In my role, I also serve as a member of the executive board, helping shape the c
  &lt;a href="http://localhost:1313/experience/job-3/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
+ 
+ 
+ &lt;img 
+ src="http://localhost:1313/images/experience/ruc-roskilde-universitet-black-tekst-under-logo-cmyk_hu_fda3eee200c047fc.webp" 
+ alt=" logo"
+ class="experience__company-logo"
+ loading="lazy"
+ /&gt;
  
  &lt;div class="experience__meta"&gt;
  &lt;div class="experience__date"&gt;2014-2014&lt;/div&gt;
@@ -1223,7 +1247,7 @@ In my role, I also serve as a member of the executive board, helping shape the c
  &lt;div class="experience__date"&gt;2010-2010&lt;/div&gt;
  &lt;div class="experience__title"&gt;IT security intern&lt;/div&gt;
  &lt;div class="experience__company"&gt;
- VUC Roskilde.
+ CSU Roskilde.
  &lt;span class="experience__location"&gt;Roskilde, Denmark&lt;/span&gt;
  &lt;/div&gt;
  &lt;/div&gt;
@@ -1244,7 +1268,7 @@ My main achievement here was to build a bridge between the local IT support and 
  
  
  &lt;img 
- src="http://localhost:1313/images/experience/internet-affairs_hu_c3e642ec43df5fb9.webp" 
+ src="http://localhost:1313/images/experience/ruc-roskilde-universitet-black-tekst-under-logo-cmyk_hu_fda3eee200c047fc.webp" 
  alt=" logo"
  class="experience__company-logo"
  loading="lazy"
@@ -1285,21 +1309,21 @@ From this job began my own interest in Unix-like systems and ensured that I coul
 
 &lt;div class="container-experience"&gt;
  &lt;div class="row"&gt;
- &lt;h2&gt;Intro (intro_title)&lt;/h2&gt;
- &lt;div class="lead"&gt;Description (intro_description).&lt;br&gt;You can use HTML,with &lt;strong&gt;strong&lt;/strong&gt; formatting, or lists &lt;ul&gt;&lt;li&gt;one&lt;/li&gt;&lt;li&gt;two&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+ &lt;h2&gt;Intro&lt;/h2&gt;
+ &lt;div class="lead"&gt;Do not be fooled by my long university career, I have established many a practical project together with industry: &lt;ul&gt;&lt;li&gt;Long-standing work with Actee - a serious game platform developer in Roskilde&lt;/li&gt; &lt;li&gt;Consultancy support for Edora - a 365 evaluation of a successful agile project for a Danish municipality&lt;/li&gt;&lt;li&gt;... and many more...&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
  &lt;/div&gt;
 
  &lt;div class="row"&gt;
  
  &lt;div class="col-12 col-lg-4"&gt;
  &lt;a
- href='https://example.com'
+ href='http://localhost:1313/projects'
  class="btn btn-primary btn-block w-100"
  target="_blank"
  rel="noopener noreferrer"
  &gt;
  &lt;i class="icon-globe"&gt;&lt;/i&gt;
- (1) Visit Example
+ (1) See projects
  &lt;i class="icon-arrow-right"&gt;&lt;/i&gt;
  &lt;/a&gt;
  &lt;/div&gt;
@@ -1314,7 +1338,7 @@ From this job began my own interest in Unix-like systems and ensured that I coul
  rel="noopener noreferrer"
  &gt;
  
- (2) Skills
+ (2) See my skills
  &lt;/a&gt;
  &lt;/div&gt;
  
@@ -1361,6 +1385,10 @@ From this job began my own interest in Unix-like systems and ensured that I coul
  &lt;div class="experience row"&gt;
  &lt;div class="experience__header col-12 col-md-3 d-flex align-items-start"&gt;
  
+ 
+ 
+ &lt;img src="http://localhost:1313/images/experience/ruc-roskilde-universitet-black-tekst-under-logo-cmyk_hu_fda3eee200c047fc.webp" alt=" logo"
+ class="experience__company-logo" loading="lazy"&gt;
  
  &lt;div class="experience__meta"&gt;
  &lt;div class="experience__date"&gt;2018- now&lt;/div&gt;

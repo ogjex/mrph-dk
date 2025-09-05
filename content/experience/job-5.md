@@ -6,6 +6,7 @@ jobTitle: "Associate Professor"
 company: "Roskilde University"
 location: "Roskilde, Denmark"
 duration: "2018- now"
+companyLogo: "images/experience/ruc-roskilde-universitet-black-tekst-under-logo-cmyk.jpg"
 
 ---
 ## 5th job: Associate Professor at the Department of People and Technology

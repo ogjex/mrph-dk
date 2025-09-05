@@ -3,7 +3,7 @@ date: 2010-11-01T00:00:00+01:00
 draft: false
 title: "Job #2"
 jobTitle: "IT security intern"
-company: "VUC Roskilde"
+company: "CSU Roskilde"
 location: "Roskilde, Denmark"
 duration: "2010-2010"
 

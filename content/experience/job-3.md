@@ -6,6 +6,7 @@ jobTitle: "Temp. Assistant Professor"
 company: "Roskilde University"
 location: "Roskilde, Denmark"
 duration: "2014-2014"
+companyLogo: "images/experience/ruc-roskilde-universitet-black-tekst-under-logo-cmyk.jpg"
 
 ---
 ## 3rd job: Temporary Assistant Professor at the Department of Communications, Business and Information Technology

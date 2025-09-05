@@ -6,7 +6,7 @@ jobTitle: "IT supporter"
 company: "Roskilde University"
 location: "Roskilde, Denmark"
 duration: "2007-2009"
-companyLogo: "images/experience/internet-affairs.png"
+companyLogo: "images/experience/ruc-roskilde-universitet-black-tekst-under-logo-cmyk.jpg"
 
 ---
 ## 1st job: Technical supporter for Apple and Macintosh servers and desktops

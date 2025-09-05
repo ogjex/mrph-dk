@@ -5,10 +5,9 @@ draft = false
 +++
 
 {{< showcase-section
-    title="Hi! I'm Magnus."
-    subtitle="Practitechnical Academic and Swiss Multitool"
-    buttonText="Email"
-    description="I work as an Associate Professor at Roskilde University where I get to design and develop: tech tools that produce value for practitioners, server infrastructure for local InfoSec projects, local LLM testing and Open Source Enterprise tools. The best part is that <code> I get to publish the results </code>! </br> Often I get the notion that I am too practical for academics and too academic for practice but it has gotten me a lot of useful research projects with practitioners and external companies and a very strong hands-on approach."
+    title="Hi! I'm Magnus"
+    subtitle="\"Practi-techno Academico\""
+    description="I work as an Associate Professor at Roskilde University where I get to design and develop; new tech and people-focused tools for practitioners; server infrastructure for local InfoSec projects; local LLM testing and Open Source Enterprise tools.</br> The <em>best part</em> is that I get to <code>publish my results</code>! </br> Often I get the notion that I am way more practical than academics and more academic than practitioners, but I do see opportunity for growth in both aspects whenever I take a hands-on approach with research projects in practice."
     imgSrc="images/about/mrph-hiq.jpg"
     imgScale="0.5"
  >}}
@@ -26,8 +25,8 @@ draft = false
     button_icon="icon-user"
     button_text="Check out how I do what I do!"
     button_url="/skills"
-    imgSrc="images/showcase/showcase.png"
-    imgScale="0.5"
+    imgSrc="images/mrph-work.jpg"
+    imgScale="0.2"
     text_align="center"
  >}}
 
@@ -36,12 +35,12 @@ draft = false
 
 {{< experience-section
     title="My job experience"
-    intro_title="Intro (intro_title)"
-    intro_description="Description (intro_description).<br>You can use HTML,with <strong>strong</strong> formatting, or lists <ul><li>one</li><li>two</li></ul>" 
-    button1_url="https://example.com"
-    button1_text="(1) Visit Example"
+    intro_title="Intro" 
+    intro_description="Do not be fooled by my long university career, I have established many a practical project together with industry:    <ul><li>Long-standing work with Actee - a serious game platform developer in Roskilde</li> <li>Consultancy support for Edora - a 365 evaluation of a successful agile project for a Danish municipality</li><li>... and many more...</li></ul>"
+    button1_text="(1) See projects"
+    button1_url="/projects"
     button1_icon="icon-globe"
-    button2_text="(2) Skills"
+    button2_text="(2) See my skills"
     button2_url="/skills"
     hideViewAll="false"
 >}}
