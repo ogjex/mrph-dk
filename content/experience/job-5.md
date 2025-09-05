@@ -11,11 +11,13 @@ companyLogo: "images/experience/ruc-roskilde-universitet-black-tekst-under-logo-
 ---
 ## 5th job: Associate Professor at the Department of People and Technology
 
+A big part of my job as an Associate Professor is to network and connect "reality" to the university and its students and researchers. Always evolving my teaching based on my research, I have so far tallied the following accomplishments:
+
 - awarded best reviewer of the SCIS/IRIS conference
 - pulled funding for the GameForGreen research project: 2.0 million Euros; Principal Investigator for the initiation of the project
 - pulled funding for the IntelliGrid research project: 1.5 million Euros
-- Boardmember and Chairperson of the IRIS board 2020-2023
-- 4 journal articles: SJIS, EJIS, Electronic Markets, and Communications of the ACM
-- Review coordinator and close collaborator for the Conference Chairs for ICIS2018
-- co-lead in the work group for the new Master of Digital Transformation at Roskilde University: increasing Master applications with 200%
-- conference chair for Danish Project Management Conference 2016-2019
+- decided on crucial directions for the SCIS/IRIS conference as a Boardmember and Chairperson of the IRIS board 2020-2023
+- published 4 high-impact journal articles: SJIS, EJIS, Electronic Markets, and Communications of the ACM
+- handled more than 2000 paper submissions as review coordinator and close collaborator for the Conference Chairs for ICIS2018
+- co-lead the work group for the new Master of Digital Transformation at Roskilde University: increasing Master applications with 200%
+- chaired and organised the Danish Project Management Conference 2016-2019

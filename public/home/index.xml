@@ -289,8 +289,7 @@
  &lt;/div>
  &lt;div class="experience__description d-none d-print-block">
  &lt;h1>Job #5&lt;/h1>
- 5th job: Associate Professor at the Department of People and Technology awarded best reviewer award SCIS/IRIS 4 journal articles date: 2018-06-01T00:00:00+01:00 draft: false title: &amp;ldquo;Job #5&amp;rdquo; jobTitle: &amp;ldquo;Associate Professor&amp;rdquo; company: &amp;ldquo;Roskilde University&amp;rdquo; location: &amp;ldquo;Roskilde, Denmark&amp;rdquo; duration: &amp;ldquo;2018- now&amp;rdquo;
-5th job: Associate Professor at the Department of People and Technology Just here a list of accomplishments:
+ 5th job: Associate Professor at the Department of People and Technology A big part of my job as an Associate Professor is to network and connect &amp;ldquo;reality&amp;rdquo; to the university and its students and researchers. Always evolving my teaching based on my research, I have so far tallied the following accomplishments:
 awarded best reviewer of the SCIS/IRIS conference pulled funding for the GameForGreen research project: 2.0 million Euros; Principal Investigator for the initiation of the project pulled funding for the IntelliGrid research project: 1.5 million Euros Boardmember and Chairperson of the IRIS board 2020-2023 4 journal articles: SJIS, EJIS, Electronic Markets, and Communications of the ACM Review coordinator and close collaborator for the Conference Chairs for ICIS2018 co-lead in the work group for the new Master of Digital Transformation at Roskilde University: increasing Master applications with 200% conference chair for Danish Project Management Conference 2016-2019 
  &lt;/div>
  &lt;/div>
@@ -525,18 +524,4 @@ From this job began my own interest in Unix-like systems and ensured that I coul
  &lt;div class="experience__description d-print-block col-12 col-md-9 mt-3 mt-md-0">
  &lt;h1>Job #5&lt;/h1>
  &lt;h2 id="5th-job-associate-professor-at-the-department-of-people-and-technology">5th job: Associate Professor at the Department of People and Technology&lt;/h2>
-&lt;ul>
-&lt;li>awarded best reviewer award SCIS/IRIS&lt;/li>
-&lt;li>&lt;/li>
-&lt;li>4 journal articles&lt;/li>
-&lt;li>&lt;/li>
-&lt;li>&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>date: 2018-06-01T00:00:00+01:00
-draft: false
-title: &amp;ldquo;Job #5&amp;rdquo;
-jobTitle: &amp;ldquo;Associate Professor&amp;rdquo;
-company: &amp;ldquo;Roskilde University&amp;rdquo;
-location: &amp;ldquo;Roskilde, Denmark&amp;rdquo;
-duration: &amp;ldquo;2018- now&amp;rdquo;&lt;/p></description></item></channel></rss>
+&lt;p>A big part of my job as an Associate Professor is to network and connect &amp;ldquo;reality&amp;rdquo; to the university and its students and researchers. Always evolving my teaching based on my research, I have so far tallied the following accomplishments:&lt;/p></description></item></channel></rss>

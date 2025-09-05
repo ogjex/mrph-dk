@@ -11,10 +11,9 @@ companyLogo: "images/experience/ruc-roskilde-universitet-black-tekst-under-logo-
 ---
 ## 4th job: Assistant Professor at the Department of Communications, Business and Information Technology
 
-As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.
+My job as Assistant Professor focused on learning the craft of creating research projects and ensuring funding, while learning how to combine and develop teaching based on research. I had the following accomplishments:
 
-During my tenure, I've spearheaded the implementation of a revolutionary blockchain-based verification system that reduced fraudulent transactions by 87% while improving processing speeds by 300%. This initiative saved the company $12M annually and earned us the prestigious "Digital Innovation Award 2024".
-
-I'm particularly proud of our "Green Computing" program which has successfully migrated 75% of our data centers to renewable energy sources. This environmental initiative not only reduced our carbon footprint by 45% but also resulted in a 30% reduction in operational costs.
-
-In my role, I also serve as a member of the executive board, helping shape the company's long-term technology vision and ensuring our IT strategy aligns perfectly with our business objectives. Currently leading an ambitious AI integration project that promises to revolutionize our customer service capabilities.
+- ensured 80.000,- DKK in external funding for a Design Science Research project on how to design a tool for evaluating value gained from knowledge networks, useful for growth network organisations who promote innovation in local companies and communities: Thy Erhvervsforum
+- ensured 40.000,- DKK in external funding for an Action Research project on how to teach UX design to technical staff in an SMV in Trekroner: Chymeia
+- published several conferences in Design Science Research and the Information Systems disciplines
+- create my own module on IT architecture; focusing on practical tools and skills that the students needed to work with in practice to ensure that they were able to enter the labour market
