@@ -11,10 +11,30 @@ companyLogo: "images/experience/ruc-roskilde-universitet-black-tekst-under-logo-
 ---
 ## 5th job: Associate Professor at the Department of People and Technology
 
-As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.
+- awarded best reviewer award SCIS/IRIS
+-
+- 4 journal articles
+- 
+- 
+---
+date: 2018-06-01T00:00:00+01:00
+draft: false
+title: "Job #5"
+jobTitle: "Associate Professor"
+company: "Roskilde University"
+location: "Roskilde, Denmark"
+duration: "2018- now"
 
-During my tenure, I've spearheaded the implementation of a revolutionary blockchain-based verification system that reduced fraudulent transactions by 87% while improving processing speeds by 300%. This initiative saved the company $12M annually and earned us the prestigious "Digital Innovation Award 2024".
+---
+## 5th job: Associate Professor at the Department of People and Technology
 
-I'm particularly proud of our "Green Computing" program which has successfully migrated 75% of our data centers to renewable energy sources. This environmental initiative not only reduced our carbon footprint by 45% but also resulted in a 30% reduction in operational costs.
+Just here a list of accomplishments:
 
-In my role, I also serve as a member of the executive board, helping shape the company's long-term technology vision and ensuring our IT strategy aligns perfectly with our business objectives. Currently leading an ambitious AI integration project that promises to revolutionize our customer service capabilities.
+- awarded best reviewer of the SCIS/IRIS conference
+- pulled funding for the GameForGreen research project: 2.0 million Euros; Principal Investigator for the initiation of the project
+- pulled funding for the IntelliGrid research project: 1.5 million Euros
+- Boardmember and Chairperson of the IRIS board 2020-2023
+- 4 journal articles: SJIS, EJIS, Electronic Markets, and Communications of the ACM
+- Review coordinator and close collaborator for the Conference Chairs for ICIS2018
+- co-lead in the work group for the new Master of Digital Transformation at Roskilde University: increasing Master applications with 200%
+- conference chair for Danish Project Management Conference 2016-2019

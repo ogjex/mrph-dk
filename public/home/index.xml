@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on</title><link>http://localhost:1313/home/</link><description>Recent content in Homes on</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Home</title><link>http://localhost:1313/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
- &lt;div id="main-content"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on</title><link>http://localhost:1313/home/</link><description>Recent content in Homes on</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Home</title><link>http://localhost:1313/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down">
+ &lt;div id="main-content">
  
 
 
  
 
- &lt;div class="showcase-section row flex-column-reverse flex-md-row rad-fade-down rad-waiting rad-animate"&gt;
- &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6"&gt;
- &lt;h1 class="display-1"&gt;
- Hi! I&amp;#39;m Magnus.
- &lt;/h1&gt;
- &lt;h2 class="display-5"&gt;
- &lt;span&gt;Practitechnical Academic and Swiss Multitool&lt;/span&gt;
- &lt;/h2&gt;
- &lt;div class="lead"&gt;
- I work as an Associate Professor at Roskilde University where I get to design and develop: tech tools that produce value for practitioners, server infrastructure for local InfoSec projects, local LLM testing and Open Source Enterprise tools. The best part is that &lt;code&gt; I get to publish the results &lt;/code&gt;! &lt;/br&gt; Often I get the notion that I am too practical for academics and too academic for practice but it has gotten me a lot of useful research projects with practitioners and external companies and a very strong hands-on approach.
- &lt;/div&gt;
+ &lt;div class="showcase-section row flex-column-reverse flex-md-row rad-fade-down rad-waiting rad-animate">
+ &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+ &lt;h1 class="display-1">
+ Hi! I&amp;#39;m Magnus
+ &lt;/h1>
+ &lt;h2 class="display-5">
+ &lt;span>"Practi-techno Academico"&lt;/span>
+ &lt;/h2>
+ &lt;div class="lead">
+ I work as an Associate Professor at Roskilde University where I get to design and develop; new tech and people-focused tools for practitioners; server infrastructure for local InfoSec projects; local LLM testing and Open Source Enterprise tools.&lt;/br> The &lt;em>best part&lt;/em> is that I get to &lt;code>publish my results&lt;/code>! &lt;/br> Often I get the notion that I am way more practical than academics and more academic than practitioners, but I do see opportunity for growth in both aspects whenever I take a hands-on approach with research projects in practice.
+ &lt;/div>
  
- &lt;/div&gt;
- &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 profile-image"&gt;
+ &lt;/div>
+ &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 profile-image">
  
 
 
@@ -27,11 +27,6 @@
 
 
 
-
-
-
- 
- 
 
 
 
@@ -39,12 +34,17 @@
  
 
 
- &lt;picture class=""&gt;
+
  
  
 
- &lt;source srcset="http://localhost:1313/images/about/mrph-hiq_hu_ec183350fa3216c0.webp 1x, http://localhost:1313/images/about/mrph-hiq_hu_243f138acca80d7e.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/images/about/mrph-hiq_hu_13fa881962a2a501.jpg 1x, http://localhost:1313/images/about/mrph-hiq_hu_da61369f30367cf2.jpg 2x" type="image/jpeg"&gt;
+
+ &lt;picture class="">
+ 
+ 
+
+ &lt;source srcset="http://localhost:1313/images/about/mrph-hiq_hu_ec183350fa3216c0.webp 1x, http://localhost:1313/images/about/mrph-hiq_hu_243f138acca80d7e.webp 2x" type="image/webp" />
+ &lt;source srcset="http://localhost:1313/images/about/mrph-hiq_hu_13fa881962a2a501.jpg 1x, http://localhost:1313/images/about/mrph-hiq_hu_da61369f30367cf2.jpg 2x" type="image/jpeg">
 
  &lt;img
  width="283"
@@ -55,23 +55,23 @@
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
  decoding="async"
- /&gt;
- &lt;/picture&gt;
+ />
+ &lt;/picture>
 
 
 
 
- &lt;/div&gt;
- &lt;div class="col-12 inner-content"&gt;
+ &lt;/div>
+ &lt;div class="col-12 inner-content">
  
 
 
 
 
 
-&lt;div class="container"&gt;
- &lt;div class="row platform-links shortcode"&gt;
- &lt;div class="col-12"&gt;
+&lt;div class="container">
+ &lt;div class="row platform-links shortcode">
+ &lt;div class="col-12">
  
  
  &lt;a
@@ -79,8 +79,8 @@
  target="_blank"
  rel="noopener noreferrer"
  aria-label="linkedin"
- &gt;&lt;i class="icon-linkedin"&gt;&lt;/i&gt;
- &lt;/a&gt;
+ >&lt;i class="icon-linkedin">&lt;/i>
+ &lt;/a>
 
  
  
@@ -89,27 +89,27 @@
  target="_blank"
  rel="noopener noreferrer"
  aria-label="square-github"
- &gt;&lt;i class="icon-square-github"&gt;&lt;/i&gt;
- &lt;/a&gt;
+ >&lt;i class="icon-square-github">&lt;/i>
+ &lt;/a>
 
-&lt;/div&gt;
- &lt;/div&gt;
-&lt;/div&gt;
+&lt;/div>
+ &lt;/div>
+&lt;/div>
 
 
 
- &lt;/div&gt;
+ &lt;/div>
  
 
- &lt;/div&gt;
+ &lt;/div>
 
 
- &lt;div class="row platform-links"&gt;
- &lt;div class="col-12"&gt;&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
+ &lt;div class="row platform-links">
+ &lt;div class="col-12">&lt;/div>
+ &lt;/div>
+ &lt;/div>
  
-&lt;/section&gt;
+&lt;/section>
 
 
 
@@ -124,10 +124,10 @@
 
 
 
-&lt;section id="about" class="section rad-animation-group pb-0"&gt;
- &lt;div class="rad-fade-down"&gt;
- &lt;div class="row d-flex flex-column-reverse flex-md-row"&gt;
- &lt;div class="about__profile-picture col-12 col-md-6"&gt;
+&lt;section id="about" class="section rad-animation-group pb-0">
+ &lt;div class="rad-fade-down">
+ &lt;div class="row d-flex flex-column-reverse flex-md-row">
+ &lt;div class="about__profile-picture col-12 col-md-6">
  
 
 
@@ -136,11 +136,6 @@
 
 
 
-
-
-
- 
- 
 
 
 
@@ -148,41 +143,46 @@
  
 
 
- &lt;picture class=""&gt;
+
  
  
 
- &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_d37b8c855bc40569.webp 1x, http://localhost:1313/images/showcase/showcase_hu_bb220d2f819b63f2.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_36a7c350e756fdba.png 1x, http://localhost:1313/images/showcase/showcase_hu_55c9d46ab35228bc.png 2x" type="image/png"&gt;
+
+ &lt;picture class="">
+ 
+ 
+
+ &lt;source srcset="http://localhost:1313/images/mrph-work_hu_5491fd400df0c1c7.webp 1x, http://localhost:1313/images/mrph-work_hu_233095dd2dbda98a.webp 2x" type="image/webp" />
+ &lt;source srcset="http://localhost:1313/images/mrph-work_hu_ae32a8924fcf2f06.jpg 1x, http://localhost:1313/images/mrph-work_hu_f0d5eba400e7ad32.jpg 2x" type="image/jpeg">
 
  &lt;img
- width="790"
- height="768"
+ width="806"
+ height="604"
  class="lozad img-responsive image-left-overflow"
- data-src="http://localhost:1313/images/showcase/showcase_hu_36a7c350e756fdba.png"
+ data-src="http://localhost:1313/images/mrph-work_hu_ae32a8924fcf2f06.jpg"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
  decoding="async"
- /&gt;
- &lt;/picture&gt;
+ />
+ &lt;/picture>
 
- &lt;/div&gt;
- &lt;div class="col-12 col-md-6 my-auto"&gt;
- &lt;h1&gt;About me&lt;/h1&gt;
- &lt;div class="about-me content lead"&gt;
- I am an all-out nice guy with a passion for working with people &lt;code&gt;and&lt;/code&gt; technology, especially &lt;code&gt;Linux-based infrastructure&lt;/code&gt;, to enable the coolest and most delicious technical solutions! &lt;br/&gt; I know how to build &lt;code&gt;most things from scratch&lt;/code&gt; and I love the challenge of figuring out how it fits into &lt;code&gt;your&lt;/code&gt; organisation!&lt;br/&gt;&lt;br/&gt; I know a lot but I also know that I do not know everything, and I know that I can start learning mostly everything as long as it has a purpose and someone finds it useful!
- &lt;/div&gt;
+ &lt;/div>
+ &lt;div class="col-12 col-md-6 my-auto">
+ &lt;h1>About me&lt;/h1>
+ &lt;div class="about-me content lead">
+ I am an all-out nice guy with a passion for working with people &lt;code>and&lt;/code> technology, especially &lt;code>Linux-based infrastructure&lt;/code>, to enable the coolest and most delicious technical solutions! &lt;br/> I know how to build &lt;code>most things from scratch&lt;/code> and I love the challenge of figuring out how it fits into &lt;code>your&lt;/code> organisation!&lt;br/>&lt;br/> I know a lot but I also know that I do not know everything, and I know that I can start learning mostly everything as long as it has a purpose and someone finds it useful!
+ &lt;/div>
  
- &lt;a href="http://localhost:1313/skills" target="_blank" class="btn btn-primary"&gt;
- &lt;i class="icon-user"&gt;&lt;/i&gt;
+ &lt;a href="http://localhost:1313/skills" target="_blank" class="btn btn-primary">
+ &lt;i class="icon-user">&lt;/i>
  Check out how I do what I do!
- &lt;/a&gt;
+ &lt;/a>
  
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/section&gt;
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
 
 
 
@@ -190,50 +190,50 @@
 &lt;section
  id="education"
  class="section section--border-bottom rad-animation-group"
-&gt;
- &lt;div class="container-education"&gt;
- &lt;div class="row rad-fade-down"&gt;
- &lt;div class="col-12"&gt;
- &lt;h2&gt;Formal Education&lt;/h2&gt;
- &lt;div class="row pt-2 pt-md-4"&gt;
+>
+ &lt;div class="container-education">
+ &lt;div class="row rad-fade-down">
+ &lt;div class="col-12">
+ &lt;h2>Formal Education&lt;/h2>
+ &lt;div class="row pt-2 pt-md-4">
  
- &lt;div class="col-12 col-sm-6 mb-4 mb-sm-0"&gt;
- &lt;div class="education"&gt;
- &lt;div class="education__date"&gt;2010-2014&lt;/div&gt;
- &lt;div class="education__title"&gt;Roskilde University&lt;/div&gt;
- &lt;div class="education__degree"&gt;PhD in Information Systems Development&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
+ &lt;div class="col-12 col-sm-6 mb-4 mb-sm-0">
+ &lt;div class="education">
+ &lt;div class="education__date">2010-2014&lt;/div>
+ &lt;div class="education__title">Roskilde University&lt;/div>
+ &lt;div class="education__degree">PhD in Information Systems Development&lt;/div>
+ &lt;/div>
+ &lt;/div>
  
- &lt;div class="col-12 col-sm-6 mb-4 mb-sm-0"&gt;
- &lt;div class="education"&gt;
- &lt;div class="education__date"&gt;2009-2009&lt;/div&gt;
- &lt;div class="education__title"&gt;Niels Brock&lt;/div&gt;
- &lt;div class="education__degree"&gt;Efteruddannelse i organisatorisk coaching&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
+ &lt;div class="col-12 col-sm-6 mb-4 mb-sm-0">
+ &lt;div class="education">
+ &lt;div class="education__date">2009-2009&lt;/div>
+ &lt;div class="education__title">Niels Brock&lt;/div>
+ &lt;div class="education__degree">Efteruddannelse i organisatorisk coaching&lt;/div>
+ &lt;/div>
+ &lt;/div>
  
- &lt;div class="col-12 col-sm-6 mb-4 mb-sm-0"&gt;
- &lt;div class="education"&gt;
- &lt;div class="education__date"&gt;2003-2009&lt;/div&gt;
- &lt;div class="education__title"&gt;Roskilde University&lt;/div&gt;
- &lt;div class="education__degree"&gt;Candidate in Communications (Cand. Comm.), Computer Science and Communications&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
+ &lt;div class="col-12 col-sm-6 mb-4 mb-sm-0">
+ &lt;div class="education">
+ &lt;div class="education__date">2003-2009&lt;/div>
+ &lt;div class="education__title">Roskilde University&lt;/div>
+ &lt;div class="education__degree">Candidate in Communications (Cand. Comm.), Computer Science and Communications&lt;/div>
+ &lt;/div>
+ &lt;/div>
  
- &lt;div class="col-12 col-sm-6 mb-4 mb-sm-0"&gt;
- &lt;div class="education"&gt;
- &lt;div class="education__date"&gt;1999-2002&lt;/div&gt;
- &lt;div class="education__title"&gt;Bornholms Amtsgymnasium&lt;/div&gt;
- &lt;div class="education__degree"&gt;Sproglig Studentereksamen&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
+ &lt;div class="col-12 col-sm-6 mb-4 mb-sm-0">
+ &lt;div class="education">
+ &lt;div class="education__date">1999-2002&lt;/div>
+ &lt;div class="education__title">Bornholms Amtsgymnasium&lt;/div>
+ &lt;div class="education__degree">Sproglig Studentereksamen&lt;/div>
+ &lt;/div>
+ &lt;/div>
  
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/section&gt;
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
 
 
 
@@ -247,14 +247,14 @@
  
 
 
-&lt;section id="experience-single" class="section-experience section section--border-bottom rad-animation-group flex-grow-1"&gt;
- &lt;div class="row flex-column-reverse flex-md-row rad-fade-down"&gt;
- &lt;div class="experience-list col-12 col-md-6"&gt;
- &lt;h2&gt;
+&lt;section id="experience-single" class="section-experience section section--border-bottom rad-animation-group flex-grow-1">
+ &lt;div class="row flex-column-reverse flex-md-row rad-fade-down">
+ &lt;div class="experience-list col-12 col-md-6">
+ &lt;h2>
  
  My job experience
  
- &lt;/h2&gt;
+ &lt;/h2>
 
  
  
@@ -266,139 +266,161 @@
  
 
  
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-5/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
+ &lt;div class="experience">
+ &lt;a href="http://localhost:1313/experience/job-5/" class="experience__link">
+ &lt;div class="experience__header">
  
  
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;2018- now&lt;/div&gt;
- &lt;div class="experience__title"&gt;Associate Professor&lt;/div&gt;
- &lt;div class="experience__company"&gt;
+ 
+ &lt;img 
+ src="http://localhost:1313/images/experience/ruc-roskilde-universitet-black-tekst-under-logo-cmyk_hu_fda3eee200c047fc.webp" 
+ alt=" logo"
+ class="experience__company-logo"
+ loading="lazy"
+ />
+ 
+ &lt;div class="experience__meta">
+ &lt;div class="experience__date">2018- now&lt;/div>
+ &lt;div class="experience__title">Associate Professor&lt;/div>
+ &lt;div class="experience__company">
  Roskilde University.
- &lt;span class="experience__location"&gt;Roskilde, Denmark&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Job #5&lt;/h1&gt;
- 5th job: Associate Professor at the Department of People and Technology As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.
-During my tenure, I&amp;rsquo;ve spearheaded the implementation of a revolutionary blockchain-based verification system that reduced fraudulent transactions by 87% while improving processing speeds by 300%. This initiative saved the company $12M annually and earned us the prestigious &amp;ldquo;Digital Innovation Award 2024&amp;rdquo;.
-I&amp;rsquo;m particularly proud of our &amp;ldquo;Green Computing&amp;rdquo; program which has successfully migrated 75% of our data centers to renewable energy sources. This environmental initiative not only reduced our carbon footprint by 45% but also resulted in a 30% reduction in operational costs.
-In my role, I also serve as a member of the executive board, helping shape the company&amp;rsquo;s long-term technology vision and ensuring our IT strategy aligns perfectly with our business objectives. Currently leading an ambitious AI integration project that promises to revolutionize our customer service capabilities.
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
+ &lt;span class="experience__location">Roskilde, Denmark&lt;/span>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="experience__description d-none d-print-block">
+ &lt;h1>Job #5&lt;/h1>
+ 5th job: Associate Professor at the Department of People and Technology awarded best reviewer award SCIS/IRIS 4 journal articles date: 2018-06-01T00:00:00+01:00 draft: false title: &amp;ldquo;Job #5&amp;rdquo; jobTitle: &amp;ldquo;Associate Professor&amp;rdquo; company: &amp;ldquo;Roskilde University&amp;rdquo; location: &amp;ldquo;Roskilde, Denmark&amp;rdquo; duration: &amp;ldquo;2018- now&amp;rdquo;
+5th job: Associate Professor at the Department of People and Technology Just here a list of accomplishments:
+awarded best reviewer of the SCIS/IRIS conference pulled funding for the GameForGreen research project: 2.0 million Euros; Principal Investigator for the initiation of the project pulled funding for the IntelliGrid research project: 1.5 million Euros Boardmember and Chairperson of the IRIS board 2020-2023 4 journal articles: SJIS, EJIS, Electronic Markets, and Communications of the ACM Review coordinator and close collaborator for the Conference Chairs for ICIS2018 co-lead in the work group for the new Master of Digital Transformation at Roskilde University: increasing Master applications with 200% conference chair for Danish Project Management Conference 2016-2019 
+ &lt;/div>
+ &lt;/div>
+ &lt;/a>
+ &lt;/div>
  
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-4/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
+ &lt;div class="experience">
+ &lt;a href="http://localhost:1313/experience/job-4/" class="experience__link">
+ &lt;div class="experience__header">
  
  
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;2015-2018&lt;/div&gt;
- &lt;div class="experience__title"&gt;Assistant Professor&lt;/div&gt;
- &lt;div class="experience__company"&gt;
+ 
+ &lt;img 
+ src="http://localhost:1313/images/experience/ruc-roskilde-universitet-black-tekst-under-logo-cmyk_hu_fda3eee200c047fc.webp" 
+ alt=" logo"
+ class="experience__company-logo"
+ loading="lazy"
+ />
+ 
+ &lt;div class="experience__meta">
+ &lt;div class="experience__date">2015-2018&lt;/div>
+ &lt;div class="experience__title">Assistant Professor&lt;/div>
+ &lt;div class="experience__company">
  Roskilde University.
- &lt;span class="experience__location"&gt;Roskilde, Denmark&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Job #4&lt;/h1&gt;
+ &lt;span class="experience__location">Roskilde, Denmark&lt;/span>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="experience__description d-none d-print-block">
+ &lt;h1>Job #4&lt;/h1>
  4th job: Assistant Professor at the Department of Communications, Business and Information Technology As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.
 During my tenure, I&amp;rsquo;ve spearheaded the implementation of a revolutionary blockchain-based verification system that reduced fraudulent transactions by 87% while improving processing speeds by 300%. This initiative saved the company $12M annually and earned us the prestigious &amp;ldquo;Digital Innovation Award 2024&amp;rdquo;.
 I&amp;rsquo;m particularly proud of our &amp;ldquo;Green Computing&amp;rdquo; program which has successfully migrated 75% of our data centers to renewable energy sources. This environmental initiative not only reduced our carbon footprint by 45% but also resulted in a 30% reduction in operational costs.
 In my role, I also serve as a member of the executive board, helping shape the company&amp;rsquo;s long-term technology vision and ensuring our IT strategy aligns perfectly with our business objectives. Currently leading an ambitious AI integration project that promises to revolutionize our customer service capabilities.
 
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
+ &lt;/div>
+ &lt;/div>
+ &lt;/a>
+ &lt;/div>
  
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-3/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
+ &lt;div class="experience">
+ &lt;a href="http://localhost:1313/experience/job-3/" class="experience__link">
+ &lt;div class="experience__header">
  
  
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;2014-2014&lt;/div&gt;
- &lt;div class="experience__title"&gt;Temp. Assistant Professor&lt;/div&gt;
- &lt;div class="experience__company"&gt;
+ 
+ &lt;img 
+ src="http://localhost:1313/images/experience/ruc-roskilde-universitet-black-tekst-under-logo-cmyk_hu_fda3eee200c047fc.webp" 
+ alt=" logo"
+ class="experience__company-logo"
+ loading="lazy"
+ />
+ 
+ &lt;div class="experience__meta">
+ &lt;div class="experience__date">2014-2014&lt;/div>
+ &lt;div class="experience__title">Temp. Assistant Professor&lt;/div>
+ &lt;div class="experience__company">
  Roskilde University.
- &lt;span class="experience__location"&gt;Roskilde, Denmark&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Job #3&lt;/h1&gt;
+ &lt;span class="experience__location">Roskilde, Denmark&lt;/span>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="experience__description d-none d-print-block">
+ &lt;h1>Job #3&lt;/h1>
  3rd job: Temporary Assistant Professor at the Department of Communications, Business and Information Technology As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.
 During my tenure, I&amp;rsquo;ve spearheaded the implementation of a revolutionary blockchain-based verification system that reduced fraudulent transactions by 87% while improving processing speeds by 300%. This initiative saved the company $12M annually and earned us the prestigious &amp;ldquo;Digital Innovation Award 2024&amp;rdquo;.
 I&amp;rsquo;m particularly proud of our &amp;ldquo;Green Computing&amp;rdquo; program which has successfully migrated 75% of our data centers to renewable energy sources. This environmental initiative not only reduced our carbon footprint by 45% but also resulted in a 30% reduction in operational costs.
 In my role, I also serve as a member of the executive board, helping shape the company&amp;rsquo;s long-term technology vision and ensuring our IT strategy aligns perfectly with our business objectives. Currently leading an ambitious AI integration project that promises to revolutionize our customer service capabilities.
 
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
+ &lt;/div>
+ &lt;/div>
+ &lt;/a>
+ &lt;/div>
  
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-2/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
+ &lt;div class="experience">
+ &lt;a href="http://localhost:1313/experience/job-2/" class="experience__link">
+ &lt;div class="experience__header">
  
  
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;2010-2010&lt;/div&gt;
- &lt;div class="experience__title"&gt;IT security intern&lt;/div&gt;
- &lt;div class="experience__company"&gt;
- VUC Roskilde.
- &lt;span class="experience__location"&gt;Roskilde, Denmark&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Job #2&lt;/h1&gt;
+ &lt;div class="experience__meta">
+ &lt;div class="experience__date">2010-2010&lt;/div>
+ &lt;div class="experience__title">IT security intern&lt;/div>
+ &lt;div class="experience__company">
+ CSU Roskilde.
+ &lt;span class="experience__location">Roskilde, Denmark&lt;/span>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="experience__description d-none d-print-block">
+ &lt;h1>Job #2&lt;/h1>
  2nd job: IT security intern During my internship, I spearheaded a much needed assessment of the security practices and established policies for hardware and software solutions for accessibility-impaired citizens.
 My main achievement here was to build a bridge between the local IT support and management that resulted in stronger awareness of providing resources for the IT support to better adhere to security best practices.
 
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
+ &lt;/div>
+ &lt;/div>
+ &lt;/a>
+ &lt;/div>
  
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-1/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
+ &lt;div class="experience">
+ &lt;a href="http://localhost:1313/experience/job-1/" class="experience__link">
+ &lt;div class="experience__header">
  
  
  
  &lt;img 
- src="http://localhost:1313/images/experience/internet-affairs_hu_c3e642ec43df5fb9.webp" 
+ src="http://localhost:1313/images/experience/ruc-roskilde-universitet-black-tekst-under-logo-cmyk_hu_fda3eee200c047fc.webp" 
  alt=" logo"
  class="experience__company-logo"
  loading="lazy"
- /&gt;
+ />
  
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;2007-2009&lt;/div&gt;
- &lt;div class="experience__title"&gt;IT supporter&lt;/div&gt;
- &lt;div class="experience__company"&gt;
+ &lt;div class="experience__meta">
+ &lt;div class="experience__date">2007-2009&lt;/div>
+ &lt;div class="experience__title">IT supporter&lt;/div>
+ &lt;div class="experience__company">
  Roskilde University.
- &lt;span class="experience__location"&gt;Roskilde, Denmark&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;IT supporter&lt;/h1&gt;
+ &lt;span class="experience__location">Roskilde, Denmark&lt;/span>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="experience__description d-none d-print-block">
+ &lt;h1>IT supporter&lt;/h1>
  1st job: Technical supporter for Apple and Macintosh servers and desktops Beginning as a student helper I managed the backup servers (Retrospect) for the Macintosh computers at our department, ranging about 10 users. I had the opportunity to familiarize myself with the basics of Unix commands and server level hardware and software as well as solving technical troubleshooting tasks such as repairing work stations and arranging and scheduling backups on a weekly basis.
 From this job began my own interest in Unix-like systems and ensured that I could navigate later on in my Master of Computer Science where I could setup SVN servers, use LaTeX and got into Emacs. I also learned the value of networking and treating everyone around me as equal human beings and listen and solve problems in a calm manner.
 
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
+ &lt;/div>
+ &lt;/div>
+ &lt;/a>
+ &lt;/div>
  
 
  
- &lt;/div&gt;
- &lt;div class="experience-description col-12 col-md-6"&gt;
+ &lt;/div>
+ &lt;div class="experience-description col-12 col-md-6">
  
  
 
@@ -410,62 +432,60 @@ From this job began my own interest in Unix-like systems and ensured that I coul
 
 
 
-&lt;div class="container-experience"&gt;
- &lt;div class="row"&gt;
- &lt;h2&gt;Intro (intro_title)&lt;/h2&gt;
- &lt;div class="lead"&gt;Description (intro_description).&lt;br&gt;You can use HTML,with &lt;strong&gt;strong&lt;/strong&gt; formatting, or lists &lt;ul&gt;&lt;li&gt;one&lt;/li&gt;&lt;li&gt;two&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
- &lt;/div&gt;
+&lt;div class="container-experience">
+ &lt;div class="row">
+ &lt;h2>Intro&lt;/h2>
+ &lt;div class="lead">Do not be fooled by my long university career, I have established many a practical project together with industry: &lt;ul>&lt;li>Long-standing work with Actee - a serious game platform developer in Roskilde&lt;/li> &lt;li>Consultancy support for Edora - a 365 evaluation of a successful agile project for a Danish municipality&lt;/li>&lt;li>... and many more...&lt;/li>&lt;/ul>&lt;/div>
+ &lt;/div>
 
- &lt;div class="row"&gt;
+ &lt;div class="row">
  
- &lt;div class="col-12 col-lg-4"&gt;
+ &lt;div class="col-12 col-lg-4">
  &lt;a
- href='https://example.com'
+ href='http://localhost:1313/projects'
  class="btn btn-primary btn-block w-100"
  target="_blank"
  rel="noopener noreferrer"
- &gt;
- &lt;i class="icon-globe"&gt;&lt;/i&gt;
- (1) Visit Example
- &lt;i class="icon-arrow-right"&gt;&lt;/i&gt;
- &lt;/a&gt;
- &lt;/div&gt;
+ >
+ &lt;i class="icon-globe">&lt;/i>
+ (1) See projects
+ &lt;i class="icon-arrow-right">&lt;/i>
+ &lt;/a>
+ &lt;/div>
  
 
  
- &lt;div class="col-12 col-lg-4"&gt;
+ &lt;div class="col-12 col-lg-4">
  &lt;a
  href='http://localhost:1313/skills'
  class="btn btn-frameless w-100"
  target="_blank"
  rel="noopener noreferrer"
- &gt;
+ >
  
- (2) Skills
- &lt;/a&gt;
- &lt;/div&gt;
+ (2) See my skills
+ &lt;/a>
+ &lt;/div>
  
 
  
- &lt;div class="col-12 col-lg-4"&gt;
+ &lt;div class="col-12 col-lg-4">
  &lt;a
  href='http://localhost:1313/experience'
  class="btn btn-frameless w-100"
  rel="noopener noreferrer"
- &gt;
+ >
  
  View all
- &lt;/a&gt;
- &lt;/div&gt;
+ &lt;/a>
+ &lt;/div>
  
- &lt;/div&gt;
-&lt;/div&gt;
+ &lt;/div>
+&lt;/div>
 
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
 
 
 
@@ -473,30 +493,50 @@ From this job began my own interest in Unix-like systems and ensured that I coul
 
 
 
-&lt;section id="experience-list-shortcode" class="section-experience section section--border-bottom rad-animation-group flex-grow-1 "&gt;
- &lt;div class="row flex-column-reverse flex-md-row rad-fade-down"&gt;
- &lt;div class="experience-list col-12 mt-5 mt-sm-0"&gt;
+
+
+&lt;section id="experience-list-shortcode" class="section-experience section section--border-bottom rad-animation-group flex-grow-1 ">
+ &lt;div class="row flex-column-reverse flex-md-row rad-fade-down">
+ &lt;div class="experience-list col-12 mt-5 mt-sm-0">
  
- &lt;h2 class="section__title mb-4"&gt;Experience (as list)&lt;/h2&gt;
+ &lt;h2 class="section__title mb-4">Experience (as list)&lt;/h2>
  
  
- 
-
  
 
  
- &lt;div class="experience row"&gt;
- &lt;div class="experience__header col-12 col-md-3 d-flex align-items-start"&gt;
+
+ 
+ &lt;div class="experience row">
+ &lt;div class="experience__header col-12 col-md-3 d-flex align-items-start">
  
  
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;2018- now&lt;/div&gt;
- &lt;div class="experience__title"&gt;Associate Professor&lt;/div&gt;
- &lt;div class="experience__company"&gt;Roskilde University. &lt;span class="experience__location"&gt;
- Roskilde, Denmark&lt;/span&gt;&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-print-block col-12 col-md-9 mt-3 mt-md-0"&gt;
- &lt;h1&gt;Job #5&lt;/h1&gt;
- &lt;h2 id="5th-job-associate-professor-at-the-department-of-people-and-technology"&gt;5th job: Associate Professor at the Department of People and Technology&lt;/h2&gt;
-&lt;p&gt;As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.&lt;/p&gt;</description></item></channel></rss>
+ 
+ &lt;img src="http://localhost:1313/images/experience/ruc-roskilde-universitet-black-tekst-under-logo-cmyk_hu_fda3eee200c047fc.webp" alt=" logo"
+ class="experience__company-logo" loading="lazy">
+ 
+ &lt;div class="experience__meta">
+ &lt;div class="experience__date">2018- now&lt;/div>
+ &lt;div class="experience__title">Associate Professor&lt;/div>
+ &lt;div class="experience__company">Roskilde University. &lt;span class="experience__location">
+ Roskilde, Denmark&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="experience__description d-print-block col-12 col-md-9 mt-3 mt-md-0">
+ &lt;h1>Job #5&lt;/h1>
+ &lt;h2 id="5th-job-associate-professor-at-the-department-of-people-and-technology">5th job: Associate Professor at the Department of People and Technology&lt;/h2>
+&lt;ul>
+&lt;li>awarded best reviewer award SCIS/IRIS&lt;/li>
+&lt;li>&lt;/li>
+&lt;li>4 journal articles&lt;/li>
+&lt;li>&lt;/li>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>date: 2018-06-01T00:00:00+01:00
+draft: false
+title: &amp;ldquo;Job #5&amp;rdquo;
+jobTitle: &amp;ldquo;Associate Professor&amp;rdquo;
+company: &amp;ldquo;Roskilde University&amp;rdquo;
+location: &amp;ldquo;Roskilde, Denmark&amp;rdquo;
+duration: &amp;ldquo;2018- now&amp;rdquo;&lt;/p></description></item></channel></rss>
