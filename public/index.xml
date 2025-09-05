@@ -712,24 +712,6 @@ The project was sponsored by the Innovation Fund Denmark and started in May 2023
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>_You **can** combine them_
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;em>This text will be italic&lt;/em>&lt;/p></description></item><item><title>The IntelliGrid Project</title><link>http://localhost:1313/projects/intelli-grid/</link><pubDate>Fri, 25 Aug 2023 09:53:42 +0200</pubDate><guid>http://localhost:1313/projects/intelli-grid/</guid><description>&lt;p>The world is consuming more and more energy. Pioneered in 2020, the IntelliGrid project was backed by Interreg EU with 2 million Euros.&lt;/p></description></item><item><title>Agile Team 360 evaluation</title><link>http://localhost:1313/projects/agile-team-evaluation/</link><pubDate>Thu, 25 Aug 2022 09:53:42 +0200</pubDate><guid>http://localhost:1313/projects/agile-team-evaluation/</guid><description>&lt;p>In which I performed a 360 evaluation of a successful agile development project by interviewing team members, managers, and clients. Produced and designed an interactive timeline with central events and their causal consequences for the team&amp;rsquo;s process and performance throughout the project lifecycle.&lt;/p></description></item><item><title>Job #5</title><link>http://localhost:1313/experience/job-5/</link><pubDate>Fri, 01 Jun 2018 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/job-5/</guid><description>&lt;h2 id="5th-job-associate-professor-at-the-department-of-people-and-technology">5th job: Associate Professor at the Department of People and Technology&lt;/h2>
 &lt;ul>
-&lt;li>awarded best reviewer award SCIS/IRIS&lt;/li>
-&lt;li>&lt;/li>
-&lt;li>4 journal articles&lt;/li>
-&lt;li>&lt;/li>
-&lt;li>&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>date: 2018-06-01T00:00:00+01:00
-draft: false
-title: &amp;ldquo;Job #5&amp;rdquo;
-jobTitle: &amp;ldquo;Associate Professor&amp;rdquo;
-company: &amp;ldquo;Roskilde University&amp;rdquo;
-location: &amp;ldquo;Roskilde, Denmark&amp;rdquo;
-duration: &amp;ldquo;2018- now&amp;rdquo;&lt;/p>
-&lt;hr>
-&lt;h2 id="5th-job-associate-professor-at-the-department-of-people-and-technology-1">5th job: Associate Professor at the Department of People and Technology&lt;/h2>
-&lt;p>Just here a list of accomplishments:&lt;/p>
-&lt;ul>
 &lt;li>awarded best reviewer of the SCIS/IRIS conference&lt;/li>
 &lt;li>pulled funding for the GameForGreen research project: 2.0 million Euros; Principal Investigator for the initiation of the project&lt;/li>
 &lt;li>pulled funding for the IntelliGrid research project: 1.5 million Euros&lt;/li>
@@ -1188,9 +1170,7 @@ duration: &amp;ldquo;2018- now&amp;rdquo;&lt;/p>
  &lt;/div>
  &lt;div class="experience__description d-none d-print-block">
  &lt;h1>Job #5&lt;/h1>
- 5th job: Associate Professor at the Department of People and Technology awarded best reviewer award SCIS/IRIS 4 journal articles date: 2018-06-01T00:00:00+01:00 draft: false title: &amp;ldquo;Job #5&amp;rdquo; jobTitle: &amp;ldquo;Associate Professor&amp;rdquo; company: &amp;ldquo;Roskilde University&amp;rdquo; location: &amp;ldquo;Roskilde, Denmark&amp;rdquo; duration: &amp;ldquo;2018- now&amp;rdquo;
-5th job: Associate Professor at the Department of People and Technology Just here a list of accomplishments:
-awarded best reviewer of the SCIS/IRIS conference pulled funding for the GameForGreen research project: 2.0 million Euros; Principal Investigator for the initiation of the project pulled funding for the IntelliGrid research project: 1.5 million Euros Boardmember and Chairperson of the IRIS board 2020-2023 4 journal articles: SJIS, EJIS, Electronic Markets, and Communications of the ACM Review coordinator and close collaborator for the Conference Chairs for ICIS2018 co-lead in the work group for the new Master of Digital Transformation at Roskilde University: increasing Master applications with 200% conference chair for Danish Project Management Conference 2016-2019 
+ 5th job: Associate Professor at the Department of People and Technology awarded best reviewer of the SCIS/IRIS conference pulled funding for the GameForGreen research project: 2.0 million Euros; Principal Investigator for the initiation of the project pulled funding for the IntelliGrid research project: 1.5 million Euros Boardmember and Chairperson of the IRIS board 2020-2023 4 journal articles: SJIS, EJIS, Electronic Markets, and Communications of the ACM Review coordinator and close collaborator for the Conference Chairs for ICIS2018 co-lead in the work group for the new Master of Digital Transformation at Roskilde University: increasing Master applications with 200% conference chair for Danish Project Management Conference 2016-2019 
  &lt;/div>
  &lt;/div>
  &lt;/a>
@@ -1425,19 +1405,41 @@ From this job began my own interest in Unix-like systems and ensured that I coul
  &lt;h1>Job #5&lt;/h1>
  &lt;h2 id="5th-job-associate-professor-at-the-department-of-people-and-technology">5th job: Associate Professor at the Department of People and Technology&lt;/h2>
 &lt;ul>
-&lt;li>awarded best reviewer award SCIS/IRIS&lt;/li>
-&lt;li>&lt;/li>
-&lt;li>4 journal articles&lt;/li>
-&lt;li>&lt;/li>
-&lt;li>&lt;/li>
+&lt;li>awarded best reviewer of the SCIS/IRIS conference&lt;/li>
+&lt;li>pulled funding for the GameForGreen research project: 2.0 million Euros; Principal Investigator for the initiation of the project&lt;/li>
+&lt;li>pulled funding for the IntelliGrid research project: 1.5 million Euros&lt;/li>
+&lt;li>Boardmember and Chairperson of the IRIS board 2020-2023&lt;/li>
+&lt;li>4 journal articles: SJIS, EJIS, Electronic Markets, and Communications of the ACM&lt;/li>
+&lt;li>Review coordinator and close collaborator for the Conference Chairs for ICIS2018&lt;/li>
+&lt;li>co-lead in the work group for the new Master of Digital Transformation at Roskilde University: increasing Master applications with 200%&lt;/li>
+&lt;li>conference chair for Danish Project Management Conference 2016-2019&lt;/li>
 &lt;/ul>
-&lt;hr>
-&lt;p>date: 2018-06-01T00:00:00+01:00
-draft: false
-title: &amp;ldquo;Job #5&amp;rdquo;
-jobTitle: &amp;ldquo;Associate Professor&amp;rdquo;
-company: &amp;ldquo;Roskilde University&amp;rdquo;
-location: &amp;ldquo;Roskilde, Denmark&amp;rdquo;
-duration: &amp;ldquo;2018- now&amp;rdquo;&lt;/p></description></item><item><title>Printable CV</title><link>http://localhost:1313/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/cv/</guid><description>&lt;p>ℹ This page is a demo of the printer-friendly output of the theme. You can find the source code in the demo repo (&lt;a href="https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md%29">https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md)&lt;/a>. Try printing it directly from your browser!&lt;/p>
+
+ &lt;/div>
+ &lt;/div>
+ 
+ 
+ &lt;hr class="d-block d-md-none my-4">
+ 
+ 
+ &lt;div class="experience row">
+ &lt;div class="experience__header col-12 col-md-3 d-flex align-items-start">
+ 
+ 
+ 
+ &lt;img src="http://localhost:1313/images/experience/ruc-roskilde-universitet-black-tekst-under-logo-cmyk_hu_fda3eee200c047fc.webp" alt=" logo"
+ class="experience__company-logo" loading="lazy">
+ 
+ &lt;div class="experience__meta">
+ &lt;div class="experience__date">2015-2018&lt;/div>
+ &lt;div class="experience__title">Assistant Professor&lt;/div>
+ &lt;div class="experience__company">Roskilde University. &lt;span class="experience__location">
+ Roskilde, Denmark&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="experience__description d-print-block col-12 col-md-9 mt-3 mt-md-0">
+ &lt;h1>Job #4&lt;/h1>
+ &lt;h2 id="4th-job-assistant-professor-at-the-department-of-communications-business-and-information-technology">4th job: Assistant Professor at the Department of Communications, Business and Information Technology&lt;/h2>
+&lt;p>As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.&lt;/p></description></item><item><title>Printable CV</title><link>http://localhost:1313/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/cv/</guid><description>&lt;p>ℹ This page is a demo of the printer-friendly output of the theme. You can find the source code in the demo repo (&lt;a href="https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md%29">https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md)&lt;/a>. Try printing it directly from your browser!&lt;/p>
 &lt;h3 id="about-me">About me&lt;/h3>
 &lt;p>I am a passionate software engineer with over 10 years of experience building web applications and distributed systems. My expertise spans full-stack development, cloud architecture, and leading engineering teams to deliver impactful solutions. I thrive on solving complex technical challenges while mentoring others and fostering a collaborative engineering culture.&lt;/p></description></item><item><title>Search</title><link>http://localhost:1313/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/search/</guid><description>search</description></item></channel></rss>
