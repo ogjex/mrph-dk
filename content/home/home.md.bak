@@ -33,8 +33,20 @@ draft = false
 {{< education-list
     title="Formal Education" >}}
 
+{{< experience-section
+    title="My job experience"
+    intro_title="Intro" 
+    intro_description="Do not be fooled by my long university career, I have established many a practical project together with industry:    <ul><li>Long-standing work with Actee - a serious game platform developer in Roskilde</li> <li>Consultancy support for Edora - a 365 evaluation of a successful agile project for a Danish municipality</li><li>... and many more...</li></ul>"
+    button1_text="(1) See projects"
+    button1_url="/projects"
+    button1_icon="icon-globe"
+    button2_text="(2) See my skills"
+    button2_url="/skills"
+    hideViewAll="false"
+>}}
+
 {{< experience-list
-    title="Experience"
+    title="Experience (as list)"
     padding="false" >}}
 
 {{< client-and-work-section
