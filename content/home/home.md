@@ -38,7 +38,7 @@ draft = false
     padding="false" >}}
 
 {{< client-and-work-section
-    title="A selection of my work" >}} 
+    title="A selection of my projects" >}} 
 
 {{< testimonial-section
     title="What they say about me" >}}
