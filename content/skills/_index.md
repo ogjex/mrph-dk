@@ -40,13 +40,9 @@ skill_categories:
         level: 70
         years: "4+"
         description: "Able to branch, merge, rebase and diff git commits, follow strict process of committing and pushing only after testing, able to use GitHub Actions for fast deployment."
-  - name: "AI and LLM usage"
+  - name: "AI and LLM"
     skills:
-      - name: "Prompting LLMs"
-        level: 80
-        years: "3+"
-        description: "Using Llama, Mistral and Copilot for coding, editing and summarisation of complicated input."
-      - name: "Local LLM usage"
+      - name: "Local LLM setup"
         level: 80
         years: "1+"
         description: "Able to setup open source LLMs using Ollama on local servers for local prompting."
