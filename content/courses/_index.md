@@ -1,11 +1,14 @@
 ---
-title: "Demo Blog"
-date: 2023-01-01
+title: "Book me to facilitate courses and workshops"
+date: 2025-09-27
 draft: false
 ---
 
-Welcome to the demo blog. You can customize (or remove) this section in the `_index.md` file in the `blog` folder. You can [read about how to organize content in Hugo](https://gohugo.io/content-management/page-bundles/) in the official docs.
+I take pride in facilitate and teach courses to professionels who want to broaden their horizon by fusing together a theory and practical experience.
+My courses focus on middle-level management but high level management can also strongly benefit from attending!
 
-The posts below are in the same folder (`blog/`) and can be in the [supported formats by hugo](https://gohugo.io/content-management/formats/) (Markdown, HTML, Emacs Org Mode, AsciiDoc, Pandoc, or reStructuredText).
+My courses include:
 
-You can use translations as well. 
+- Automise your workflows - learn how to recognise, asses and optimise your workflows for full automation using basic scripting. The course can take a departure in Windows, Macs, and even Linux platforms!
+- Generative AI and your role in a weird world! - learn the basics of generative AI and how to use it for various types of task. The course dives into how and when you can expect time savings vs quality improvements from using new gen AI tools.
+- Leading technological change - learn how and when to implement new tech in your enterprise and which change strategies and plans are most beneficial to your organisation!
