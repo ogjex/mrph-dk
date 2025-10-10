@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on</title><link>http://localhost:1313/home/</link><description>Recent content in Homes on</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Home</title><link>http://localhost:1313/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on</title><link>//localhost:1313/home/</link><description>Recent content in Homes on</description><generator>Hugo</generator><language>en</language><atom:link href="//localhost:1313/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Home</title><link>//localhost:1313/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
  &lt;div id="main-content"&gt;
  
 
@@ -43,14 +43,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/images/about/mrph-hiq_hu_ec183350fa3216c0.webp 1x, http://localhost:1313/images/about/mrph-hiq_hu_243f138acca80d7e.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/images/about/mrph-hiq_hu_13fa881962a2a501.jpg 1x, http://localhost:1313/images/about/mrph-hiq_hu_da61369f30367cf2.jpg 2x" type="image/jpeg"&gt;
+ &lt;source srcset="//localhost:1313/images/about/mrph-hiq_hu_ec183350fa3216c0.webp 1x, //localhost:1313/images/about/mrph-hiq_hu_243f138acca80d7e.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="//localhost:1313/images/about/mrph-hiq_hu_13fa881962a2a501.jpg 1x, //localhost:1313/images/about/mrph-hiq_hu_da61369f30367cf2.jpg 2x" type="image/jpeg"&gt;
 
  &lt;img
  width="283"
  height="425"
  class="lozad img-responsive "
- data-src="http://localhost:1313/images/about/mrph-hiq_hu_13fa881962a2a501.jpg"
+ data-src="//localhost:1313/images/about/mrph-hiq_hu_13fa881962a2a501.jpg"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -152,14 +152,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/images/mrph-work_hu_5491fd400df0c1c7.webp 1x, http://localhost:1313/images/mrph-work_hu_233095dd2dbda98a.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/images/mrph-work_hu_ae32a8924fcf2f06.jpg 1x, http://localhost:1313/images/mrph-work_hu_f0d5eba400e7ad32.jpg 2x" type="image/jpeg"&gt;
+ &lt;source srcset="//localhost:1313/images/mrph-work_hu_5491fd400df0c1c7.webp 1x, //localhost:1313/images/mrph-work_hu_233095dd2dbda98a.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="//localhost:1313/images/mrph-work_hu_ae32a8924fcf2f06.jpg 1x, //localhost:1313/images/mrph-work_hu_f0d5eba400e7ad32.jpg 2x" type="image/jpeg"&gt;
 
  &lt;img
  width="806"
  height="604"
  class="lozad img-responsive image-left-overflow"
- data-src="http://localhost:1313/images/mrph-work_hu_ae32a8924fcf2f06.jpg"
+ data-src="//localhost:1313/images/mrph-work_hu_ae32a8924fcf2f06.jpg"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -174,7 +174,7 @@
  I am an all-out nice guy with a passion for working with people &lt;code&gt;and&lt;/code&gt; technology, especially &lt;code&gt;Linux-based infrastructure&lt;/code&gt;, to enable the coolest and most delicious technical solutions! &lt;br/&gt; I know how to build &lt;code&gt;most things from scratch&lt;/code&gt; and I love the challenge of figuring out how it fits into &lt;code&gt;your&lt;/code&gt; organisation!&lt;br/&gt;&lt;br/&gt; I know a lot but I also know that I do not know everything, and I know that I can start learning mostly everything as long as it has a purpose and someone finds it useful!
  &lt;/div&gt;
  
- &lt;a href="http://localhost:1313/skills" target="_blank" class="btn btn-primary"&gt;
+ &lt;a href="//localhost:1313/skills" target="_blank" class="btn btn-primary"&gt;
  &lt;i class="icon-user"&gt;&lt;/i&gt;
  Check out how I do what I do!
  &lt;/a&gt;
@@ -261,7 +261,7 @@
  
  
  
- &lt;img src="http://localhost:1313/images/experience/ruc-roskilde-universitet-black-tekst-under-logo-cmyk_hu_fda3eee200c047fc.webp" alt=" logo"
+ &lt;img src="//localhost:1313/images/experience/ruc-roskilde-universitet-black-tekst-under-logo-cmyk_hu_fda3eee200c047fc.webp" alt=" logo"
  class="experience__company-logo" loading="lazy"&gt;
  
  &lt;div class="experience__meta"&gt;
