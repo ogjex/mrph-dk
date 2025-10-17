@@ -6,7 +6,7 @@ draft = false
 
 {{< showcase-section
     title="Hi! I'm Magnus"
-    subtitle="\"Practi-techno Academico\""
+    subtitle="\"Practi-techno DevOps Academic\""
     description="I work as an Associate Professor at Roskilde University where I get to design and develop; new tech and people-focused tools for practitioners; server infrastructure for local InfoSec projects; local LLM testing and Open Source Enterprise tools.</br> The <em>best part</em> is that I get to <code>publish my results</code>! </br> Often I get the notion that I am way more practical than academics and more academic than practitioners, but I do see opportunity for growth in both aspects whenever I take a hands-on approach with research projects in practice."
     imgSrc="images/about/mrph-hiq.jpg"
     imgScale="0.5"
