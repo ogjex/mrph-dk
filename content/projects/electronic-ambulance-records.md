@@ -3,15 +3,15 @@ date: '2014-08-25T09:53:42+02:00' # date in which the content is created - defau
 title: 'Regional Electronic Ambulance Records'
 draft: false # set to "true" if you want to hide the content 
 
-link: "https://www.adrianmoreno.info" # optional URL to link the logo to
+link: "https://regionsyddanmark.dk/patienter-og-parorende/praehospital-indsats/praehospital-patientjournal" # optional URL to link the logo to
 
 params:
     button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
-        URL: "https://www.adrianmoreno.info"
+        URL: "https://regionsyddanmark.dk/patienter-og-parorende/praehospital-indsats/praehospital-patientjournal"
     image:
-        src: "images/works/robo-advisor.jpg"
+        src: "images/works/ambulance.png"
         scale: 0.5
     
 
