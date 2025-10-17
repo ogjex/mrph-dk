@@ -11,7 +11,7 @@ params:
         btnText: "Case Study"
         URL: ""
     image:
-        src: "images/works/interactive-timeline-agile.png"
+        src: "images/works/360-evaluation.png"
         scale: 0.5
     
 

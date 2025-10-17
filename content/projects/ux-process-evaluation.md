@@ -12,10 +12,10 @@ params:
         URL: ""
     image:
         src: "images/works/enterprise-compass.png"
-        scale: 0.5
+        scale: 0.8
     
 
 ## The content is used for the description of the project
 ---
 
-For a minor chemical SME I performed a UX evaluation of an existing product by teaching the IT development team how to perform usability evaluations. Through the usability evaluation I proposed a "design system" as guidelines for further design in order to avoid additional problematic UX design decisions.
+For a minor chemical SME I performed a UX evaluation of an existing product by teaching the IT development team how to perform usability evaluations. Through the usability evaluation I proposed a "design system" as guidelines for further design in order to avoid additional problematic UX design decisions and furthermore developed the idea of a serious game called "The Enterprise Compass"; designed for SMEs to understand the necessity of both exploiting their market and investigating and exploring their opportunities.

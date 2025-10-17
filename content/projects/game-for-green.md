@@ -11,8 +11,8 @@ params:
         btnText: "Case Study"
         URL: "https://www.gameforgreen.dk"
     image:
-        src: "images/works/swissfintech.jpg"
-        scale: 0.5
+        src: "images/works/gameforgreen.png"
+        scale: 1.0
     
 
 ## The content is used for the description of the project

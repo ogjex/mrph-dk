@@ -11,8 +11,8 @@ params:
         btnText: "Case Study"
         URL: "https://regionsyddanmark.dk/patienter-og-parorende/praehospital-indsats/praehospital-patientjournal"
     image:
-        src: "images/works/ambulance.png"
-        scale: 0.5
+        src: "images/works/amb-eppj.jpg"
+        scale: 0.15
     
 
 ## The content is used for the description of the project
