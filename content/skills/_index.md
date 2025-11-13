@@ -7,15 +7,15 @@ skill_categories:
   - name: "Programming Languages"
     skills:
       - name: "Python"
-        level: 60
+        level: 40
         years: "2"
         description: "Able to develop a drag and drop GUI using PyQT as well as do data analysis with Jupyter notebooks and JSON manipulation."
       - name: "Java"
-        level: 60
+        level: 50
         years: "3+"
         description: "Able to develop GUIs with Swing and small desktop apps."
       - name: "PHP"
-        level: 70
+        level: 50
         years: "3+"
         description: "Developed with pure server-side PHP and Laravel."
       - name: "Bash"
@@ -33,11 +33,11 @@ skill_categories:
         years: "1+"
         description: "Able to integrate new plugins, automate using macros and norm."
       - name: "Docker"
-        level: 30
+        level: 40
         years: "1+"
         description: "Able to user Docker CLI and Docker Compose and set up customized docker images."
       - name: "Git and GitHub"
-        level: 70
+        level: 60
         years: "4+"
         description: "Able to branch, merge, rebase and diff git commits, follow strict process of committing and pushing only after testing, able to use GitHub Actions for fast deployment."
   - name: "AI and LLM"
@@ -46,10 +46,6 @@ skill_categories:
         level: 80
         years: "1+"
         description: "Able to setup open source LLMs using Ollama on local servers for local prompting."
-      - name: "Finetuning LLMs"
-        level: 70
-        years: "1+"
-        description: "Advanced. Able to finetune LLMs through RAG, RAFT, KAG, CAG and RHLF."
   - name: "System administration"
     skills:
       - name: "Debian Server"
@@ -71,9 +67,9 @@ skill_categories:
       - name: "Ansible"
         level: 20
         years: "1"
-        description: "Beginner. Able to use playbooks, plays, task lists to control multiple (6+) servers for updates and mass deployment." 
+        description: "Beginner. Able to use playbooks, plays, task lists to control multiple (6+) servers for updates and mass updating." 
       - name: "Terraform"
-        level: 0
+        level: 10
         years: "0"
         description: "Absolute Beginner. Currently researching how best to apply it in a proxmox environment to make deployment of BSD and Debian servers as easy and reproducible as possible." 
   - name: "Design tools and CAD"
